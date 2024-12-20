@@ -1,6 +1,6 @@
 import { motion } from 'motion/react'
 
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import { ModelCanvas } from '../components/ModelCanvas'
 import { FaSpinner } from 'react-icons/fa6'
 import { AnimatedResponse } from '../components/AnimatedResponse'
@@ -8,18 +8,26 @@ import { AnimatedResponse } from '../components/AnimatedResponse'
 export const Home = () => {
   const [active, setLoading] = useState(false)
   const [userInput, setUserInput] = useState<string>('')
-  const [aiResponse, setAIResponse] = useState<string>('talk to yourself.')
+  const [aiResponse, setAIResponse] = useState<string>('...')
 
   const callAi = async () => {
     setLoading(true)
     try {
       console.log(userInput)
-      await new Promise(resolve => setTimeout(resolve, 2000))
+      await new Promise(resolve > setTimeout(resolve, 2000))
       setAIResponse(userInput)
     } finally {
       setLoading(false)
     }
   }
+
+  useEffect(() => {
+    const timer = setTimeout(
+      () => setAIResponse('talk to your digital self'),
+      1500
+    )
+    return () => clearTimeout(timer)
+  }, [])
 
   return (
     <>
