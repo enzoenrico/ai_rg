@@ -67,7 +67,7 @@ class RAG:
         try:
             print("[+] creating twitter loader")
             # should return document list for later splitting
-            x_loader = TweetLoader(users=["elonmusk"], n_tweets=50)
+            x_loader = TweetLoader(users=["ky0uko___"], n_tweets=50)
             self.loader = x_loader
         except Exception as err:
             print(f"[-]{err}")
@@ -99,13 +99,13 @@ class RAG:
         return str(response.content)
 
 
-panga = RAG()
+# panga = RAG()
 # query_answ = panga.query("what is elon's musk latest tweet about?")
 # print(f"Query Answer:\n\r{query_answ}")
 # running into 429 - too many requests
 
-while True:
-    question = input("question here \n")
+# while True:
+#     question = input("> question here \n")
 
-    query_answ = panga.query(question=question)
-    print(f"Query Answer:\n\r{query_answ}")
+#     query_answ = panga.query(question=question)
+#     print(f"Query Answer:\n\r{query_answ}")

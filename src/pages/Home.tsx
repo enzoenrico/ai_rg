@@ -2,7 +2,6 @@ import { motion } from 'motion/react'
 
 import { useState, useEffect } from 'react'
 import { ModelCanvas } from '../components/ModelCanvas'
-import { FaSpinner } from 'react-icons/fa6'
 import { AnimatedResponse } from '../components/AnimatedResponse'
 
 export const Home = () => {
@@ -10,16 +9,29 @@ export const Home = () => {
   const [userInput, setUserInput] = useState<string>('')
   const [aiResponse, setAIResponse] = useState<string>('...')
 
-  const callAi = async () => {
+const callAi = async () => {
     setLoading(true)
     try {
-      console.log(userInput)
-      await new Promise(resolve > setTimeout(resolve, 2000))
-      setAIResponse(userInput)
+        console.log(userInput)
+        const response = await fetch('http://localhost:5000/ai', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+                'X-Token': 'your-secret-token' // Add the required authentication token
+            },
+            body: JSON.stringify({
+                query: userInput
+            })
+        })
+        const data = await response.json()
+        setAIResponse(data.response)
+    } catch (error) {
+        setAIResponse('Error communicating with AI')
+        console.error(error)
     } finally {
-      setLoading(false)
+        setLoading(false)
     }
-  }
+}
 
   useEffect(() => {
     const timer = setTimeout(
@@ -38,28 +50,34 @@ export const Home = () => {
         transition={{ duration: 3 }}
       >
         <ModelCanvas loading={active} setLoading={setLoading} />
-        <div className='absolute bottom-5 w-full flex items-center justify-center gap-8'>
+        <form
+          className='absolute bottom-5 w-full flex items-center justify-center gap-8'
+          onSubmit={e => {
+            e.preventDefault()
+
+            callAi()
+          }}
+        >
           <input
             type='text'
-            placeholder='hello'
+            placeholder='ask?'
             className='w-3/5 p-2 px-4  bg-slate-600/20 border-2 border-red-600 text-white orbitron'
             onChange={e => setUserInput(e.target.value)}
           />
           <button
-            type='button'
-            className='orbitron bg-black border-2 border-white text-white p-2 '
-            onClick={callAi}
+            type='submit'
+            className='orbitron bg-black border-2 border-white text-white p-2'
           >
             Transform
           </button>
-        </div>
+        </form>
         <div className='absolute top-50 text-white px-5'>
           {active ? (
-            <motion.p className='font-mono orbitron vt323 text-4xl '>
+            <motion.p className='font-mono  vt323 text-4xl '>
               <AnimatedResponse text={'loading...'} />
             </motion.p>
           ) : (
-            <motion.p className='font-mono orbitron vt323 text-4xl '>
+            <motion.p className='font-mono  vt323 text-4xl '>
               <AnimatedResponse text={aiResponse} />
             </motion.p>
           )}
