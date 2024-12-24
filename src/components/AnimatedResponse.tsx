@@ -18,41 +18,57 @@ export const AnimatedResponse: FC<{ text: string }> = ({ text }) => {
   const [displayedText, setDisplayedText] = useState(text)
   const count = useMotionValue(text.length)
   const rounded = useTransform(count, Math.round)
-  const displayText = useTransform(rounded, latest => displayedText.slice(0, latest))
+  const displayText = useTransform(rounded, latest =>
+    displayedText.slice(0, latest)
+  )
 
   useEffect(() => {
     const animateText = async () => {
       // Delete animation
       if (displayedText !== text) {
         await animate(count, 0, {
-          duration: 0.75,
+          duration: 0.75
         })
         setDisplayedText(text)
       }
       // Write animation
       await animate(count, text.length, {
-        duration: 1,
+        duration: 1
       })
     }
 
     animateText()
   }, [text, count, displayText])
 
-  return (
-    <span className="inline-flex">
-      <motion.span
-        className='selection:text-red-600'
-        initial={{ color: '#ff0000' }}
-        animate={{ color: '#ffffff' }}
-        transition={{ duration: 2 }}
-      >
-        {displayText}
-      </motion.span>
-      <motion.div
-        variants={cursorVariants}
-        animate="blinking"
-        className="inline-block h-6 w-2 translate-y-2 bg-white "
-      />
-    </span>
-  )
+return (
+    <motion.span 
+        className='inline-flex'
+        animate={{
+            y: [0, -5, 0] // Float between 0 and -5 pixels
+        }}
+        transition={{
+            duration: 2,
+            repeat: Infinity,
+            ease: 'easeInOut'
+        }}
+    >
+        <motion.span
+            className='selection:text-red-600'
+            initial={{ color: '#ff0000' }}
+            animate={{
+                color: '#ffffff'
+            }}
+            transition={{
+                duration: 2
+            }}
+        >
+            {displayText}
+        </motion.span>
+        <motion.div
+            variants={cursorVariants}
+            animate='blinking'
+            className='inline-block h-6 w-2 translate-y-2 bg-white '
+        />
+    </motion.span>
+)
 }

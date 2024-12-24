@@ -63,9 +63,14 @@ class TweetLoader:
             # also add quotes, mentions, blocked, quotetweets
             # full on spy on them, fuck it
             users_tweets: tweepy.Response = self.client.get_users_tweets(id=user_id)
+            user_likes: tweepy.Response = self.client.get_liked_tweets(id=user_id)
 
-            docs = self._format_tweets(users_tweets, user)
-            results.extend(docs)
+            doc_likes = self._format_tweets(user_likes, user)
+            doc_tweets = self._format_tweets(users_tweets, user)
+
+            results.extend(doc_tweets)
+            results.extend(doc_likes)
+
         return results
 
     def _format_tweets(

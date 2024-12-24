@@ -1,7 +1,9 @@
 from csv import excel
+from importlib import metadata
 import os
+import time
 from typing import List
-from xml.dom.minidom import Document
+from langchain_core.documents import Document
 import chromadb
 from langchain_chroma import Chroma
 from langchain.text_splitter import RecursiveCharacterTextSplitter
@@ -96,16 +98,21 @@ class RAG:
             outside_context=context_from_chroma, user_prompt=question
         )
         response = self.chat.invoke(prompt_with_user_question)
+        user_generated_metadata = {
+            # TODO: change this to actual user id
+            "user_querying": "ky0uko___",
+            "user_question": question,
+            "timestamp": time.time(),
+        }
+
+        # appends to user history
+        # TODO: transform into standalone function
+        self.retriever.add_documents(
+            documents=[
+                Document(
+                    page_content=prompt_with_user_question,
+                    metadata=user_generated_metadata,
+                )
+            ]
+        )
         return str(response.content)
-
-
-# panga = RAG()
-# query_answ = panga.query("what is elon's musk latest tweet about?")
-# print(f"Query Answer:\n\r{query_answ}")
-# running into 429 - too many requests
-
-# while True:
-#     question = input("> question here \n")
-
-#     query_answ = panga.query(question=question)
-#     print(f"Query Answer:\n\r{query_answ}")

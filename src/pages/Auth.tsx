@@ -1,6 +1,8 @@
 import { useNavigate } from 'react-router-dom'
 import { useAuth } from '../context/AuthContext'
 import { AnimatedResponse } from '../components/AnimatedResponse'
+import { Box } from '../components/Box'
+import { Canvas } from '@react-three/fiber'
 
 export const Auth = () => {
   const navigate = useNavigate()
