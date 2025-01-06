@@ -3,18 +3,14 @@ import { motion } from 'motion/react'
 import { useState, useEffect } from 'react'
 import { ModelCanvas } from '../components/ModelCanvas'
 import { AnimatedResponse } from '../components/AnimatedResponse'
-import {
-  getLoadingMessage,
-  LoadingMessages
-} from '../components/LoadingMessages'
 
 export const Home = () => {
-  const [active, setLoading] = useState(false)
+  const [active, setActive] = useState(false)
   const [userInput, setUserInput] = useState<string>('')
   const [aiResponse, setAIResponse] = useState<string>('...')
 
   const callAi = async () => {
-    setLoading(true)
+    setActive(true)
     try {
       console.log(userInput)
       const response = await fetch('http://localhost:5000/ai', {
@@ -33,7 +29,7 @@ export const Home = () => {
       setAIResponse('connection lost, try again')
       console.error(error)
     } finally {
-      setLoading(false)
+      setActive(false)
     }
   }
 
@@ -72,7 +68,10 @@ export const Home = () => {
         animate={{ opacity: 1 }}
         transition={{ duration: 3 }}
       >
-        <ModelCanvas loading={active} setLoading={setLoading} />
+        <ModelCanvas 
+          loading={active} 
+          setLoading={(value: boolean) => setActive(value)} 
+        />
         <form
           className='absolute bottom-5 w-full flex items-center justify-center gap-8'
           onSubmit={e => {

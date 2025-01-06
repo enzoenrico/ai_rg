@@ -1,21 +1,21 @@
 import { useNavigate } from 'react-router-dom'
 import { useAuth } from '../context/AuthContext'
 import { AnimatedResponse } from '../components/AnimatedResponse'
-import { TwitterAuthProvider, getAuth, signInWithPopup } from 'firebase/auth'
-import { firebase_app } from '../firebase'
+// import { TwitterAuthProvider, getAuth, signInWithPopup } from 'firebase/auth'
+// import { firebase_app } from '../firebase'
 import { motion } from 'motion/react'
 
-const handleTwitterSignIn = () => {
-  // fix this function to fucking work
-  // change ngrok tunnel in api settings
-  const provider = new TwitterAuthProvider()
-  const auth = getAuth(firebase_app)
-  signInWithPopup(auth, provider)
-    .then(response => {
-      console.log(response)
-    })
-    .catch(err => console.log(err))
-}
+// const handleTwitterSignIn = () => {
+//   // fix this function to fucking work
+//   // change ngrok tunnel in api settings
+//   const provider = new TwitterAuthProvider()
+//   const auth = getAuth(firebase_app)
+//   signInWithPopup(auth, provider)
+//     .then(response => {
+//       console.log(response)
+//     })
+//     .catch(err => console.log(err))
+// }
 
 export const Auth = () => {
   const navigate = useNavigate()

@@ -1,4 +1,10 @@
-import React, { createContext, useContext, useEffect, useState } from 'react'
+import {
+  createContext,
+  ReactNode,
+  useContext,
+  useEffect,
+  useState
+} from 'react'
 
 interface AuthContextType {
   isAuthed: boolean
@@ -27,11 +33,13 @@ export const AuthProvider = ({ children }: { children: ReactNode }) => {
     localStorage.removeItem('isAuthed')
   }
 
-  return (
-    <AuthContext.Provider value={{ isAuthed, login, logout }}>
-      {children}
-    </AuthContext.Provider>
-  )
+  if (AuthContext !== null) {
+    return (
+      <AuthContext.Provider value={{ isAuthed, login, logout }}>
+        {children}
+      </AuthContext.Provider>
+    )
+  }
 }
 
 export const useAuth = () => {
