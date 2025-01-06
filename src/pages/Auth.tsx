@@ -1,14 +1,28 @@
 import { useNavigate } from 'react-router-dom'
 import { useAuth } from '../context/AuthContext'
 import { AnimatedResponse } from '../components/AnimatedResponse'
-import { Box } from '../components/Box'
-import { Canvas } from '@react-three/fiber'
+import { TwitterAuthProvider, getAuth, signInWithPopup } from 'firebase/auth'
+import { firebase_app } from '../firebase'
+import { motion } from 'motion/react'
+
+const handleTwitterSignIn = () => {
+  // fix this function to fucking work
+  // change ngrok tunnel in api settings
+  const provider = new TwitterAuthProvider()
+  const auth = getAuth(firebase_app)
+  signInWithPopup(auth, provider)
+    .then(response => {
+      console.log(response)
+    })
+    .catch(err => console.log(err))
+}
 
 export const Auth = () => {
   const navigate = useNavigate()
   const { isAuthed, login, logout } = useAuth()
 
   const handleLogin = () => {
+    // handleTwitterSignIn()
     login()
     navigate('/')
   }
@@ -19,13 +33,25 @@ export const Auth = () => {
   return (
     <div className='bg-red-950 orbitron w-screen h-screen flex flex-col items-center justify-center gap-4'>
       <div className='vt323 text-4xl'>
-        <AnimatedResponse text='log in?' />
+        <AnimatedResponse text='insert the twitter handle' />
       </div>
+      <motion.input
+        initial={{ opacity: 0 }}
+        animate={{ opacity: 1 }}
+        transition={{ duration: 1 }}
+        placeholder='i.e ky0uko___'
+        name='twitter_name'
+        id='twitter_name'
+        className='  bg-black text-white p-2 border-2'
+      />
       <button
         onClick={handleLogin}
         className='border-red-900 hover:border-red-800 border-2 text-white p-5 bg-black '
       >
-        Login {isAuthed ? '(Already logged in)' : ''}
+        <p className='flex items-center'>
+          login with {isAuthed ? '(Already logged in)' : ' '}
+          {/* <FaXTwitter /> */}
+        </p>
       </button>
       <button onClick={handleLogout} className='bg-white px-5 py-2 '>
         Logout
