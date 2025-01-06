@@ -4,7 +4,12 @@ import { Box } from '../components/Box'
 import { Suspense } from 'react'
 import { FaSpinner } from 'react-icons/fa6'
 
-export const ModelCanvas = ({ loading, setLoading }) => {
+interface ModelCanvasProps {
+  loading: boolean
+  setLoading: (value: boolean) => void
+}
+
+export const ModelCanvas: React.FC<ModelCanvasProps> = ({ loading, setLoading }) => {
   return (
     <Canvas camera={{ position: [0, 1, 2] }}>
       {/* <ambientLight position={[1, 1, 2]} intensity={0.3} /> */}
@@ -16,7 +21,7 @@ export const ModelCanvas = ({ loading, setLoading }) => {
           </div>
         }
       >
-        <Box position={[0, 0, 0]} active={loading} setActive={setLoading} />
+        <Box active={loading} props={{ position: [0, 0, 0], setActive: setLoading }} />
       </Suspense>
       <AsciiRenderer fgColor='#8b0000' bgColor='black' />
       {/* <OrbitControls /> */}

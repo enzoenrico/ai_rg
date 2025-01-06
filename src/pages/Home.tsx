@@ -5,12 +5,12 @@ import { ModelCanvas } from '../components/ModelCanvas'
 import { AnimatedResponse } from '../components/AnimatedResponse'
 
 export const Home = () => {
-  const [active, setLoading] = useState(false)
+  const [active, setActive] = useState(false)
   const [userInput, setUserInput] = useState<string>('')
   const [aiResponse, setAIResponse] = useState<string>('...')
 
   const callAi = async () => {
-    setLoading(true)
+    setActive(true)
     try {
       console.log(userInput)
       const response = await fetch('http://localhost:5000/ai', {
@@ -29,8 +29,27 @@ export const Home = () => {
       setAIResponse('connection lost, try again')
       console.error(error)
     } finally {
-      setLoading(false)
+      setActive(false)
     }
+  }
+
+  const selectedLoadingMessage = () => {
+    const messages = [
+      'asking...',
+      'connecting to user...',
+      'intercepting signals...',
+      'decoding fragments...',
+      'parsing echoes...',
+      'gathering whispers...',
+      'analyzing frequencies...',
+      'seeking patterns...'
+    ]
+
+    const selectedMessage =
+      messages[Math.floor(Math.random() * messages.length)]
+    console.log(selectedMessage)
+
+    return selectedMessage
   }
 
   useEffect(() => {
@@ -49,7 +68,10 @@ export const Home = () => {
         animate={{ opacity: 1 }}
         transition={{ duration: 3 }}
       >
-        <ModelCanvas loading={active} setLoading={setLoading} />
+        <ModelCanvas 
+          loading={active} 
+          setLoading={(value: boolean) => setActive(value)} 
+        />
         <form
           className='absolute bottom-5 w-full flex items-center justify-center gap-8'
           onSubmit={e => {
@@ -68,13 +90,13 @@ export const Home = () => {
             type='submit'
             className='orbitron bg-black border-2 border-white text-white p-2'
           >
-            Transform
+            Send message
           </button>
         </form>
         <div className='absolute top-50 text-white px-5'>
           {active ? (
             <p className='font-mono  vt323 text-4xl '>
-              <AnimatedResponse text={'loading...'} />
+              <AnimatedResponse text={selectedLoadingMessage()} />
             </p>
           ) : (
             <p className='font-mono  vt323 text-4xl '>

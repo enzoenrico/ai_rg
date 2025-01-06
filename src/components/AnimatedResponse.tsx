@@ -40,35 +40,35 @@ export const AnimatedResponse: FC<{ text: string }> = ({ text }) => {
     animateText()
   }, [text, count, displayText])
 
-return (
-    <motion.span 
-        className='inline-flex'
+  return (
+    <motion.span
+      className='inline-flex'
+      animate={{
+        y: [0, -5, 0] // Float between 0 and -5 pixels
+      }}
+      transition={{
+        duration: 2,
+        repeat: Infinity,
+        ease: 'easeInOut'
+      }}
+    >
+      <motion.span
+        className='selection:text-red-600'
+        initial={{ color: '#ff0000' }}
         animate={{
-            y: [0, -5, 0] // Float between 0 and -5 pixels
+          color: '#ffffff'
         }}
         transition={{
-            duration: 2,
-            repeat: Infinity,
-            ease: 'easeInOut'
+          duration: 2
         }}
-    >
-        <motion.span
-            className='selection:text-red-600'
-            initial={{ color: '#ff0000' }}
-            animate={{
-                color: '#ffffff'
-            }}
-            transition={{
-                duration: 2
-            }}
-        >
-            {displayText}
-        </motion.span>
-        <motion.div
-            variants={cursorVariants}
-            animate='blinking'
-            className='inline-block h-6 w-2 translate-y-2 bg-white '
-        />
+      >
+        {displayText}
+      </motion.span>
+      <motion.div
+        variants={cursorVariants}
+        animate='blinking'
+        className='inline-block h-6 w-2 translate-y-2 bg-white '
+      />
     </motion.span>
-)
+  )
 }
