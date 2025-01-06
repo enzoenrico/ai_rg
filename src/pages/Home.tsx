@@ -3,6 +3,10 @@ import { motion } from 'motion/react'
 import { useState, useEffect } from 'react'
 import { ModelCanvas } from '../components/ModelCanvas'
 import { AnimatedResponse } from '../components/AnimatedResponse'
+import {
+  getLoadingMessage,
+  LoadingMessages
+} from '../components/LoadingMessages'
 
 export const Home = () => {
   const [active, setLoading] = useState(false)
@@ -31,6 +35,25 @@ export const Home = () => {
     } finally {
       setLoading(false)
     }
+  }
+
+  const selectedLoadingMessage = () => {
+    const messages = [
+      'asking...',
+      'connecting to user...',
+      'intercepting signals...',
+      'decoding fragments...',
+      'parsing echoes...',
+      'gathering whispers...',
+      'analyzing frequencies...',
+      'seeking patterns...'
+    ]
+
+    const selectedMessage =
+      messages[Math.floor(Math.random() * messages.length)]
+    console.log(selectedMessage)
+
+    return selectedMessage
   }
 
   useEffect(() => {
@@ -68,13 +91,13 @@ export const Home = () => {
             type='submit'
             className='orbitron bg-black border-2 border-white text-white p-2'
           >
-            Transform
+            Send message
           </button>
         </form>
         <div className='absolute top-50 text-white px-5'>
           {active ? (
             <p className='font-mono  vt323 text-4xl '>
-              <AnimatedResponse text={'loading...'} />
+              <AnimatedResponse text={selectedLoadingMessage()} />
             </p>
           ) : (
             <p className='font-mono  vt323 text-4xl '>
