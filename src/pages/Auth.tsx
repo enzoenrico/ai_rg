@@ -5,24 +5,11 @@ import { AnimatedResponse } from '../components/AnimatedResponse'
 // import { firebase_app } from '../firebase'
 import { motion } from 'motion/react'
 
-// const handleTwitterSignIn = () => {
-//   // fix this function to fucking work
-//   // change ngrok tunnel in api settings
-//   const provider = new TwitterAuthProvider()
-//   const auth = getAuth(firebase_app)
-//   signInWithPopup(auth, provider)
-//     .then(response => {
-//       console.log(response)
-//     })
-//     .catch(err => console.log(err))
-// }
-
 export const Auth = () => {
   const navigate = useNavigate()
   const { isAuthed, login, logout } = useAuth()
 
   const handleLogin = () => {
-    // handleTwitterSignIn()
     login()
     navigate('/')
   }

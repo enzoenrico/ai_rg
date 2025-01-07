@@ -24,7 +24,12 @@ export const AuthProvider = ({ children }: { children: ReactNode }) => {
   }, [isAuthed])
 
   // login logut logic needs to be moved to separate component
-  const login = () => {
+  type loginParams = {
+    email: string
+    password: string
+  }
+  const login = async ({ email, password }: loginParams) => {
+    // fetch api with login params
     setIsAuthed(true)
     localStorage.setItem('isAuthed', 'true')
   }
