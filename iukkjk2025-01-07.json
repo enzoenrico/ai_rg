@@ -1,0 +1,2403 @@
+{
+    "name": "iukkjk",
+    "pfp": "https://pbs.twimg.com/profile_images/1858888377140908032/dJaVgnID_normal.jpg",
+    "bio": "dear diary (miss understood)",
+    "location": "curitiba",
+    "followers": 108,
+    "closestConnections": [
+        {
+            "name": "leozaduski",
+            "pfp": "https://pbs.twimg.com/profile_images/1867158803608674304/J47apYgY_normal.jpg",
+            "bio": "https://t.co/rPNG6qBybz",
+            "pinnedTweet": "1790749377134227794",
+            "followers": 714,
+            "closestConnections": null,
+            "timeline": [],
+            "latest_liked": null
+        },
+        {
+            "name": "dreamingsafely",
+            "pfp": "https://pbs.twimg.com/profile_images/1875554659479199744/rWQMn84N_normal.jpg",
+            "bio": "blessed are those who hunger and thirst for righteousness, for they will be filled ♱ Lana del Rey #1 fan - your local it girl ˚♡˚₊‧⁺˖ Aries",
+            "pinnedTweet": "1869386907173662984",
+            "followers": 2717,
+            "closestConnections": null,
+            "timeline": [
+                {
+                    "id": "1876532913610563690",
+                    "createdAt": "Tue Jan 07 07:34:45 +0000 2025",
+                    "tweetBy": {
+                        "id": "981374447449006080",
+                        "userName": "dreamingsafely",
+                        "fullName": "𝓂𝒾𝓇𝒶𝓃𝒹𝒶 🍒",
+                        "createdAt": "Wed Apr 04 03:34:36 +0000 2018",
+                        "description": "blessed are those who hunger and thirst for righteousness, for they will be filled ♱ Lana del Rey #1 fan - your local it girl ˚♡˚₊‧⁺˖ Aries",
+                        "isVerified": false,
+                        "likeCount": 113954,
+                        "followersCount": 2717,
+                        "followingsCount": 649,
+                        "statusesCount": 34315,
+                        "pinnedTweet": "1869386907173662984",
+                        "profileBanner": "https://pbs.twimg.com/profile_banners/981374447449006080/1735675022",
+                        "profileImage": "https://pbs.twimg.com/profile_images/1875554659479199744/rWQMn84N_normal.jpg"
+                    },
+                    "entities": {
+                        "hashtags": [],
+                        "mentionedUsers": [
+                            "champagnelso"
+                        ],
+                        "urls": []
+                    },
+                    "fullText": "@champagnelso Explico",
+                    "replyTo": "1876446557102596307",
+                    "lang": "es",
+                    "quoteCount": 0,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "likeCount": 0,
+                    "viewCount": 52,
+                    "bookmarkCount": 0
+                },
+                {
+                    "id": "1876469540944826526",
+                    "createdAt": "Tue Jan 07 03:22:56 +0000 2025",
+                    "tweetBy": {
+                        "id": "981374447449006080",
+                        "userName": "dreamingsafely",
+                        "fullName": "𝓂𝒾𝓇𝒶𝓃𝒹𝒶 🍒",
+                        "createdAt": "Wed Apr 04 03:34:36 +0000 2018",
+                        "description": "blessed are those who hunger and thirst for righteousness, for they will be filled ♱ Lana del Rey #1 fan - your local it girl ˚♡˚₊‧⁺˖ Aries",
+                        "isVerified": false,
+                        "likeCount": 113954,
+                        "followersCount": 2717,
+                        "followingsCount": 649,
+                        "statusesCount": 34315,
+                        "pinnedTweet": "1869386907173662984",
+                        "profileBanner": "https://pbs.twimg.com/profile_banners/981374447449006080/1735675022",
+                        "profileImage": "https://pbs.twimg.com/profile_images/1875554659479199744/rWQMn84N_normal.jpg"
+                    },
+                    "entities": {
+                        "hashtags": [],
+                        "mentionedUsers": [
+                            "emptydarkcanvas"
+                        ],
+                        "urls": []
+                    },
+                    "fullText": "@emptydarkcanvas Caralho, muito foda",
+                    "replyTo": "1876175054733762950",
+                    "lang": "pt",
+                    "quoteCount": 0,
+                    "replyCount": 1,
+                    "retweetCount": 0,
+                    "likeCount": 1,
+                    "viewCount": 127,
+                    "bookmarkCount": 0
+                },
+                {
+                    "id": "1876416802454139099",
+                    "createdAt": "Mon Jan 06 23:53:22 +0000 2025",
+                    "tweetBy": {
+                        "id": "981374447449006080",
+                        "userName": "dreamingsafely",
+                        "fullName": "𝓂𝒾𝓇𝒶𝓃𝒹𝒶 🍒",
+                        "createdAt": "Wed Apr 04 03:34:36 +0000 2018",
+                        "description": "blessed are those who hunger and thirst for righteousness, for they will be filled ♱ Lana del Rey #1 fan - your local it girl ˚♡˚₊‧⁺˖ Aries",
+                        "isVerified": false,
+                        "likeCount": 113954,
+                        "followersCount": 2717,
+                        "followingsCount": 649,
+                        "statusesCount": 34315,
+                        "pinnedTweet": "1869386907173662984",
+                        "profileBanner": "https://pbs.twimg.com/profile_banners/981374447449006080/1735675022",
+                        "profileImage": "https://pbs.twimg.com/profile_images/1875554659479199744/rWQMn84N_normal.jpg"
+                    },
+                    "entities": {
+                        "hashtags": [],
+                        "mentionedUsers": [
+                            "karanesmemes"
+                        ],
+                        "urls": []
+                    },
+                    "fullText": "@karanesmemes Nao eh?! 😸",
+                    "replyTo": "1876403245989712114",
+                    "lang": "tl",
+                    "quoteCount": 0,
+                    "replyCount": 1,
+                    "retweetCount": 0,
+                    "likeCount": 1,
+                    "viewCount": 76,
+                    "bookmarkCount": 0
+                },
+                {
+                    "id": "1876374901525029310",
+                    "createdAt": "Mon Jan 06 21:06:52 +0000 2025",
+                    "tweetBy": {
+                        "id": "981374447449006080",
+                        "userName": "dreamingsafely",
+                        "fullName": "𝓂𝒾𝓇𝒶𝓃𝒹𝒶 🍒",
+                        "createdAt": "Wed Apr 04 03:34:36 +0000 2018",
+                        "description": "blessed are those who hunger and thirst for righteousness, for they will be filled ♱ Lana del Rey #1 fan - your local it girl ˚♡˚₊‧⁺˖ Aries",
+                        "isVerified": false,
+                        "likeCount": 113954,
+                        "followersCount": 2717,
+                        "followingsCount": 649,
+                        "statusesCount": 34315,
+                        "pinnedTweet": "1869386907173662984",
+                        "profileBanner": "https://pbs.twimg.com/profile_banners/981374447449006080/1735675022",
+                        "profileImage": "https://pbs.twimg.com/profile_images/1875554659479199744/rWQMn84N_normal.jpg"
+                    },
+                    "entities": {
+                        "hashtags": [],
+                        "mentionedUsers": [
+                            "becamerida"
+                        ],
+                        "urls": []
+                    },
+                    "fullText": "@becamerida Mostra becaaa",
+                    "replyTo": "1876371072267997624",
+                    "lang": "en",
+                    "quoteCount": 0,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "likeCount": 0,
+                    "viewCount": 45,
+                    "bookmarkCount": 0
+                },
+                {
+                    "id": "1876374851314950332",
+                    "createdAt": "Mon Jan 06 21:06:40 +0000 2025",
+                    "tweetBy": {
+                        "id": "981374447449006080",
+                        "userName": "dreamingsafely",
+                        "fullName": "𝓂𝒾𝓇𝒶𝓃𝒹𝒶 🍒",
+                        "createdAt": "Wed Apr 04 03:34:36 +0000 2018",
+                        "description": "blessed are those who hunger and thirst for righteousness, for they will be filled ♱ Lana del Rey #1 fan - your local it girl ˚♡˚₊‧⁺˖ Aries",
+                        "isVerified": false,
+                        "likeCount": 113954,
+                        "followersCount": 2717,
+                        "followingsCount": 649,
+                        "statusesCount": 34315,
+                        "pinnedTweet": "1869386907173662984",
+                        "profileBanner": "https://pbs.twimg.com/profile_banners/981374447449006080/1735675022",
+                        "profileImage": "https://pbs.twimg.com/profile_images/1875554659479199744/rWQMn84N_normal.jpg"
+                    },
+                    "entities": {
+                        "hashtags": [],
+                        "mentionedUsers": [],
+                        "urls": []
+                    },
+                    "fullText": "MDs do ceu homem dps dos trinta fica cada vez mais feio mesmo né pqp raríssimo ver um homem com mais de 30 anos que não tá com cara de que vai morrer em alguns dias",
+                    "lang": "pt",
+                    "quoteCount": 1,
+                    "replyCount": 6,
+                    "retweetCount": 0,
+                    "likeCount": 5,
+                    "viewCount": 556,
+                    "bookmarkCount": 0
+                },
+                {
+                    "id": "1876370162623906154",
+                    "createdAt": "Mon Jan 06 20:48:02 +0000 2025",
+                    "tweetBy": {
+                        "id": "981374447449006080",
+                        "userName": "dreamingsafely",
+                        "fullName": "𝓂𝒾𝓇𝒶𝓃𝒹𝒶 🍒",
+                        "createdAt": "Wed Apr 04 03:34:36 +0000 2018",
+                        "description": "blessed are those who hunger and thirst for righteousness, for they will be filled ♱ Lana del Rey #1 fan - your local it girl ˚♡˚₊‧⁺˖ Aries",
+                        "isVerified": false,
+                        "likeCount": 113954,
+                        "followersCount": 2717,
+                        "followingsCount": 649,
+                        "statusesCount": 34315,
+                        "pinnedTweet": "1869386907173662984",
+                        "profileBanner": "https://pbs.twimg.com/profile_banners/981374447449006080/1735675022",
+                        "profileImage": "https://pbs.twimg.com/profile_images/1875554659479199744/rWQMn84N_normal.jpg"
+                    },
+                    "entities": {
+                        "hashtags": [],
+                        "mentionedUsers": [],
+                        "urls": []
+                    },
+                    "fullText": "Odeio quando eu faço tudo e daí sobra um espaço pra não fazer nada.. eu quero fazer coisas",
+                    "replyTo": "1876370078947848287",
+                    "lang": "pt",
+                    "quoteCount": 0,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "likeCount": 1,
+                    "viewCount": 82,
+                    "bookmarkCount": 0
+                },
+                {
+                    "id": "1876370078947848287",
+                    "createdAt": "Mon Jan 06 20:47:42 +0000 2025",
+                    "tweetBy": {
+                        "id": "981374447449006080",
+                        "userName": "dreamingsafely",
+                        "fullName": "𝓂𝒾𝓇𝒶𝓃𝒹𝒶 🍒",
+                        "createdAt": "Wed Apr 04 03:34:36 +0000 2018",
+                        "description": "blessed are those who hunger and thirst for righteousness, for they will be filled ♱ Lana del Rey #1 fan - your local it girl ˚♡˚₊‧⁺˖ Aries",
+                        "isVerified": false,
+                        "likeCount": 113954,
+                        "followersCount": 2717,
+                        "followingsCount": 649,
+                        "statusesCount": 34315,
+                        "pinnedTweet": "1869386907173662984",
+                        "profileBanner": "https://pbs.twimg.com/profile_banners/981374447449006080/1735675022",
+                        "profileImage": "https://pbs.twimg.com/profile_images/1875554659479199744/rWQMn84N_normal.jpg"
+                    },
+                    "entities": {
+                        "hashtags": [],
+                        "mentionedUsers": [],
+                        "urls": []
+                    },
+                    "fullText": "Ai que tédio",
+                    "lang": "pt",
+                    "quoteCount": 0,
+                    "replyCount": 1,
+                    "retweetCount": 0,
+                    "likeCount": 0,
+                    "viewCount": 117,
+                    "bookmarkCount": 0
+                },
+                {
+                    "id": "1876346394161639794",
+                    "createdAt": "Mon Jan 06 19:13:35 +0000 2025",
+                    "tweetBy": {
+                        "id": "981374447449006080",
+                        "userName": "dreamingsafely",
+                        "fullName": "𝓂𝒾𝓇𝒶𝓃𝒹𝒶 🍒",
+                        "createdAt": "Wed Apr 04 03:34:36 +0000 2018",
+                        "description": "blessed are those who hunger and thirst for righteousness, for they will be filled ♱ Lana del Rey #1 fan - your local it girl ˚♡˚₊‧⁺˖ Aries",
+                        "isVerified": false,
+                        "likeCount": 113954,
+                        "followersCount": 2717,
+                        "followingsCount": 649,
+                        "statusesCount": 34315,
+                        "pinnedTweet": "1869386907173662984",
+                        "profileBanner": "https://pbs.twimg.com/profile_banners/981374447449006080/1735675022",
+                        "profileImage": "https://pbs.twimg.com/profile_images/1875554659479199744/rWQMn84N_normal.jpg"
+                    },
+                    "entities": {
+                        "hashtags": [],
+                        "mentionedUsers": [],
+                        "urls": []
+                    },
+                    "media": [
+                        {
+                            "url": "https://pbs.twimg.com/media/GgofGbAWYAA0_4a.jpg",
+                            "type": "photo"
+                        }
+                    ],
+                    "quoted": {
+                        "id": "1876016215644307875",
+                        "createdAt": "Sun Jan 05 21:21:35 +0000 2025",
+                        "tweetBy": {
+                            "id": "2922320919",
+                            "userName": "equine__dentist",
+                            "fullName": "horse dentist",
+                            "createdAt": "Mon Dec 15 03:00:26 +0000 2014",
+                            "description": "horse god formerly known as balthazar the exalted",
+                            "isVerified": true,
+                            "likeCount": 48496,
+                            "followersCount": 42303,
+                            "followingsCount": 831,
+                            "statusesCount": 17835,
+                            "pinnedTweet": "1800282774051696763",
+                            "profileBanner": "https://pbs.twimg.com/profile_banners/2922320919/1667917497",
+                            "profileImage": "https://pbs.twimg.com/profile_images/1594080000805945345/zwKVAWO4_normal.jpg"
+                        },
+                        "entities": {
+                            "hashtags": [],
+                            "mentionedUsers": [],
+                            "urls": []
+                        },
+                        "media": [
+                            {
+                                "url": "https://pbs.twimg.com/media/GgjyzmOWEAAcfOF.jpg",
+                                "type": "photo"
+                            }
+                        ],
+                        "fullText": "??? https://t.co/vjyfRKPSpX",
+                        "lang": "zxx",
+                        "quoteCount": 2291,
+                        "replyCount": 451,
+                        "retweetCount": 17634,
+                        "likeCount": 276882,
+                        "viewCount": 4741953,
+                        "bookmarkCount": 12572
+                    },
+                    "fullText": "https://t.co/bsRFKehYWB",
+                    "lang": "zxx",
+                    "quoteCount": 0,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "likeCount": 0,
+                    "viewCount": 192,
+                    "bookmarkCount": 0
+                },
+                {
+                    "id": "1876317385612771416",
+                    "createdAt": "Mon Jan 06 17:18:19 +0000 2025",
+                    "tweetBy": {
+                        "id": "981374447449006080",
+                        "userName": "dreamingsafely",
+                        "fullName": "𝓂𝒾𝓇𝒶𝓃𝒹𝒶 🍒",
+                        "createdAt": "Wed Apr 04 03:34:36 +0000 2018",
+                        "description": "blessed are those who hunger and thirst for righteousness, for they will be filled ♱ Lana del Rey #1 fan - your local it girl ˚♡˚₊‧⁺˖ Aries",
+                        "isVerified": false,
+                        "likeCount": 113954,
+                        "followersCount": 2717,
+                        "followingsCount": 649,
+                        "statusesCount": 34315,
+                        "pinnedTweet": "1869386907173662984",
+                        "profileBanner": "https://pbs.twimg.com/profile_banners/981374447449006080/1735675022",
+                        "profileImage": "https://pbs.twimg.com/profile_images/1875554659479199744/rWQMn84N_normal.jpg"
+                    },
+                    "entities": {
+                        "hashtags": [],
+                        "mentionedUsers": [],
+                        "urls": []
+                    },
+                    "fullText": "MDs quero assistir hellraiser td dnv",
+                    "lang": "fr",
+                    "quoteCount": 0,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "likeCount": 0,
+                    "viewCount": 117,
+                    "bookmarkCount": 0
+                },
+                {
+                    "id": "1876123104046641623",
+                    "createdAt": "Mon Jan 06 04:26:19 +0000 2025",
+                    "tweetBy": {
+                        "id": "981374447449006080",
+                        "userName": "dreamingsafely",
+                        "fullName": "𝓂𝒾𝓇𝒶𝓃𝒹𝒶 🍒",
+                        "createdAt": "Wed Apr 04 03:34:36 +0000 2018",
+                        "description": "blessed are those who hunger and thirst for righteousness, for they will be filled ♱ Lana del Rey #1 fan - your local it girl ˚♡˚₊‧⁺˖ Aries",
+                        "isVerified": false,
+                        "likeCount": 113954,
+                        "followersCount": 2717,
+                        "followingsCount": 649,
+                        "statusesCount": 34315,
+                        "pinnedTweet": "1869386907173662984",
+                        "profileBanner": "https://pbs.twimg.com/profile_banners/981374447449006080/1735675022",
+                        "profileImage": "https://pbs.twimg.com/profile_images/1875554659479199744/rWQMn84N_normal.jpg"
+                    },
+                    "entities": {
+                        "hashtags": [],
+                        "mentionedUsers": [],
+                        "urls": []
+                    },
+                    "fullText": "Slaps and kisses",
+                    "lang": "en",
+                    "quoteCount": 0,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "likeCount": 2,
+                    "viewCount": 130,
+                    "bookmarkCount": 0
+                },
+                {
+                    "id": "1876056448444350576",
+                    "createdAt": "Mon Jan 06 00:01:27 +0000 2025",
+                    "tweetBy": {
+                        "id": "981374447449006080",
+                        "userName": "dreamingsafely",
+                        "fullName": "𝓂𝒾𝓇𝒶𝓃𝒹𝒶 🍒",
+                        "createdAt": "Wed Apr 04 03:34:36 +0000 2018",
+                        "description": "blessed are those who hunger and thirst for righteousness, for they will be filled ♱ Lana del Rey #1 fan - your local it girl ˚♡˚₊‧⁺˖ Aries",
+                        "isVerified": false,
+                        "likeCount": 113954,
+                        "followersCount": 2717,
+                        "followingsCount": 649,
+                        "statusesCount": 34315,
+                        "pinnedTweet": "1869386907173662984",
+                        "profileBanner": "https://pbs.twimg.com/profile_banners/981374447449006080/1735675022",
+                        "profileImage": "https://pbs.twimg.com/profile_images/1875554659479199744/rWQMn84N_normal.jpg"
+                    },
+                    "entities": {
+                        "hashtags": [],
+                        "mentionedUsers": [],
+                        "urls": []
+                    },
+                    "fullText": "Credo me deixa em paz encosto",
+                    "replyTo": "1876056413392494906",
+                    "lang": "pt",
+                    "quoteCount": 0,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "likeCount": 0,
+                    "viewCount": 69,
+                    "bookmarkCount": 0
+                },
+                {
+                    "id": "1876056413392494906",
+                    "createdAt": "Mon Jan 06 00:01:19 +0000 2025",
+                    "tweetBy": {
+                        "id": "981374447449006080",
+                        "userName": "dreamingsafely",
+                        "fullName": "𝓂𝒾𝓇𝒶𝓃𝒹𝒶 🍒",
+                        "createdAt": "Wed Apr 04 03:34:36 +0000 2018",
+                        "description": "blessed are those who hunger and thirst for righteousness, for they will be filled ♱ Lana del Rey #1 fan - your local it girl ˚♡˚₊‧⁺˖ Aries",
+                        "isVerified": false,
+                        "likeCount": 113954,
+                        "followersCount": 2717,
+                        "followingsCount": 649,
+                        "statusesCount": 34315,
+                        "pinnedTweet": "1869386907173662984",
+                        "profileBanner": "https://pbs.twimg.com/profile_banners/981374447449006080/1735675022",
+                        "profileImage": "https://pbs.twimg.com/profile_images/1875554659479199744/rWQMn84N_normal.jpg"
+                    },
+                    "entities": {
+                        "hashtags": [],
+                        "mentionedUsers": [],
+                        "urls": []
+                    },
+                    "fullText": "Chatoooooooooooooooo",
+                    "lang": "en",
+                    "quoteCount": 0,
+                    "replyCount": 1,
+                    "retweetCount": 0,
+                    "likeCount": 0,
+                    "viewCount": 114,
+                    "bookmarkCount": 0
+                },
+                {
+                    "id": "1876033784514228662",
+                    "createdAt": "Sun Jan 05 22:31:23 +0000 2025",
+                    "tweetBy": {
+                        "id": "981374447449006080",
+                        "userName": "dreamingsafely",
+                        "fullName": "𝓂𝒾𝓇𝒶𝓃𝒹𝒶 🍒",
+                        "createdAt": "Wed Apr 04 03:34:36 +0000 2018",
+                        "description": "blessed are those who hunger and thirst for righteousness, for they will be filled ♱ Lana del Rey #1 fan - your local it girl ˚♡˚₊‧⁺˖ Aries",
+                        "isVerified": false,
+                        "likeCount": 113954,
+                        "followersCount": 2717,
+                        "followingsCount": 649,
+                        "statusesCount": 34315,
+                        "pinnedTweet": "1869386907173662984",
+                        "profileBanner": "https://pbs.twimg.com/profile_banners/981374447449006080/1735675022",
+                        "profileImage": "https://pbs.twimg.com/profile_images/1875554659479199744/rWQMn84N_normal.jpg"
+                    },
+                    "entities": {
+                        "hashtags": [],
+                        "mentionedUsers": [],
+                        "urls": []
+                    },
+                    "fullText": "Ah não copiar bio do Twitter eh demais né",
+                    "lang": "pt",
+                    "quoteCount": 0,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "likeCount": 2,
+                    "viewCount": 275,
+                    "bookmarkCount": 0
+                },
+                {
+                    "id": "1875986328132931749",
+                    "createdAt": "Sun Jan 05 19:22:49 +0000 2025",
+                    "tweetBy": {
+                        "id": "981374447449006080",
+                        "userName": "dreamingsafely",
+                        "fullName": "𝓂𝒾𝓇𝒶𝓃𝒹𝒶 🍒",
+                        "createdAt": "Wed Apr 04 03:34:36 +0000 2018",
+                        "description": "blessed are those who hunger and thirst for righteousness, for they will be filled ♱ Lana del Rey #1 fan - your local it girl ˚♡˚₊‧⁺˖ Aries",
+                        "isVerified": false,
+                        "likeCount": 113954,
+                        "followersCount": 2717,
+                        "followingsCount": 649,
+                        "statusesCount": 34315,
+                        "pinnedTweet": "1869386907173662984",
+                        "profileBanner": "https://pbs.twimg.com/profile_banners/981374447449006080/1735675022",
+                        "profileImage": "https://pbs.twimg.com/profile_images/1875554659479199744/rWQMn84N_normal.jpg"
+                    },
+                    "entities": {
+                        "hashtags": [],
+                        "mentionedUsers": [],
+                        "urls": []
+                    },
+                    "fullText": "Meu deussssss odeio homem que força intimidadeeeeeeee que sacoooooooooooooooooooo vai tomar no cu caralhooooooo eu não te conhecoooooooooo",
+                    "lang": "pt",
+                    "quoteCount": 0,
+                    "replyCount": 1,
+                    "retweetCount": 1,
+                    "likeCount": 13,
+                    "viewCount": 391,
+                    "bookmarkCount": 0
+                },
+                {
+                    "id": "1875984987318804633",
+                    "createdAt": "Sun Jan 05 19:17:29 +0000 2025",
+                    "tweetBy": {
+                        "id": "981374447449006080",
+                        "userName": "dreamingsafely",
+                        "fullName": "𝓂𝒾𝓇𝒶𝓃𝒹𝒶 🍒",
+                        "createdAt": "Wed Apr 04 03:34:36 +0000 2018",
+                        "description": "blessed are those who hunger and thirst for righteousness, for they will be filled ♱ Lana del Rey #1 fan - your local it girl ˚♡˚₊‧⁺˖ Aries",
+                        "isVerified": false,
+                        "likeCount": 113954,
+                        "followersCount": 2717,
+                        "followingsCount": 649,
+                        "statusesCount": 34315,
+                        "pinnedTweet": "1869386907173662984",
+                        "profileBanner": "https://pbs.twimg.com/profile_banners/981374447449006080/1735675022",
+                        "profileImage": "https://pbs.twimg.com/profile_images/1875554659479199744/rWQMn84N_normal.jpg"
+                    },
+                    "entities": {
+                        "hashtags": [],
+                        "mentionedUsers": [
+                            "ascensionismx"
+                        ],
+                        "urls": []
+                    },
+                    "fullText": "@ascensionismx Obaaaaa",
+                    "replyTo": "1875983015995986389",
+                    "lang": "und",
+                    "quoteCount": 0,
+                    "replyCount": 1,
+                    "retweetCount": 0,
+                    "likeCount": 1,
+                    "viewCount": 17,
+                    "bookmarkCount": 0
+                },
+                {
+                    "id": "1875950388979147244",
+                    "createdAt": "Sun Jan 05 17:00:00 +0000 2025",
+                    "tweetBy": {
+                        "id": "981374447449006080",
+                        "userName": "dreamingsafely",
+                        "fullName": "𝓂𝒾𝓇𝒶𝓃𝒹𝒶 🍒",
+                        "createdAt": "Wed Apr 04 03:34:36 +0000 2018",
+                        "description": "blessed are those who hunger and thirst for righteousness, for they will be filled ♱ Lana del Rey #1 fan - your local it girl ˚♡˚₊‧⁺˖ Aries",
+                        "isVerified": false,
+                        "likeCount": 113954,
+                        "followersCount": 2717,
+                        "followingsCount": 649,
+                        "statusesCount": 34315,
+                        "pinnedTweet": "1869386907173662984",
+                        "profileBanner": "https://pbs.twimg.com/profile_banners/981374447449006080/1735675022",
+                        "profileImage": "https://pbs.twimg.com/profile_images/1875554659479199744/rWQMn84N_normal.jpg"
+                    },
+                    "entities": {
+                        "hashtags": [],
+                        "mentionedUsers": [],
+                        "urls": []
+                    },
+                    "fullText": "Qdo falaram q o nosferatu era horrível eu esperava algo muito pior mas ele só eh careca de bigode tipo… lindo? As pessoas não sabem mais apreciar certas belezas mesmo",
+                    "lang": "pt",
+                    "quoteCount": 0,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "likeCount": 0,
+                    "viewCount": 207,
+                    "bookmarkCount": 0
+                },
+                {
+                    "id": "1875948916086374467",
+                    "createdAt": "Sun Jan 05 16:54:09 +0000 2025",
+                    "tweetBy": {
+                        "id": "981374447449006080",
+                        "userName": "dreamingsafely",
+                        "fullName": "𝓂𝒾𝓇𝒶𝓃𝒹𝒶 🍒",
+                        "createdAt": "Wed Apr 04 03:34:36 +0000 2018",
+                        "description": "blessed are those who hunger and thirst for righteousness, for they will be filled ♱ Lana del Rey #1 fan - your local it girl ˚♡˚₊‧⁺˖ Aries",
+                        "isVerified": false,
+                        "likeCount": 113954,
+                        "followersCount": 2717,
+                        "followingsCount": 649,
+                        "statusesCount": 34315,
+                        "pinnedTweet": "1869386907173662984",
+                        "profileBanner": "https://pbs.twimg.com/profile_banners/981374447449006080/1735675022",
+                        "profileImage": "https://pbs.twimg.com/profile_images/1875554659479199744/rWQMn84N_normal.jpg"
+                    },
+                    "entities": {
+                        "hashtags": [],
+                        "mentionedUsers": [],
+                        "urls": []
+                    },
+                    "quoted": {
+                        "id": "1875723488390226380",
+                        "createdAt": "Sun Jan 05 01:58:23 +0000 2025",
+                        "tweetBy": {
+                            "id": "1309141799852822528",
+                            "userName": "lixobyroniano",
+                            "fullName": "chico treva não é uma tartaruga ninja",
+                            "createdAt": "Thu Sep 24 14:45:26 +0000 2020",
+                            "description": "here comes the hexclaw • 25 • qualquer pronome • @debzoz",
+                            "isVerified": false,
+                            "likeCount": 11402,
+                            "followersCount": 453,
+                            "followingsCount": 551,
+                            "statusesCount": 30111,
+                            "location": "brasilia",
+                            "pinnedTweet": "1680720561335402496",
+                            "profileBanner": "https://pbs.twimg.com/profile_banners/1309141799852822528/1735426297",
+                            "profileImage": "https://pbs.twimg.com/profile_images/1826951823531376640/fNdVBcgU_normal.jpg"
+                        },
+                        "entities": {
+                            "hashtags": [],
+                            "mentionedUsers": [],
+                            "urls": []
+                        },
+                        "fullText": "O NOSFERATU",
+                        "lang": "pl",
+                        "quoteCount": 144,
+                        "replyCount": 233,
+                        "retweetCount": 2243,
+                        "likeCount": 18254,
+                        "viewCount": 464045,
+                        "bookmarkCount": 447
+                    },
+                    "fullText": "Vou morrer",
+                    "lang": "pt",
+                    "quoteCount": 0,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "likeCount": 1,
+                    "viewCount": 243,
+                    "bookmarkCount": 0
+                },
+                {
+                    "id": "1875670498484613148",
+                    "createdAt": "Sat Jan 04 22:27:49 +0000 2025",
+                    "tweetBy": {
+                        "id": "981374447449006080",
+                        "userName": "dreamingsafely",
+                        "fullName": "𝓂𝒾𝓇𝒶𝓃𝒹𝒶 🍒",
+                        "createdAt": "Wed Apr 04 03:34:36 +0000 2018",
+                        "description": "blessed are those who hunger and thirst for righteousness, for they will be filled ♱ Lana del Rey #1 fan - your local it girl ˚♡˚₊‧⁺˖ Aries",
+                        "isVerified": false,
+                        "likeCount": 113954,
+                        "followersCount": 2717,
+                        "followingsCount": 649,
+                        "statusesCount": 34315,
+                        "pinnedTweet": "1869386907173662984",
+                        "profileBanner": "https://pbs.twimg.com/profile_banners/981374447449006080/1735675022",
+                        "profileImage": "https://pbs.twimg.com/profile_images/1875554659479199744/rWQMn84N_normal.jpg"
+                    },
+                    "entities": {
+                        "hashtags": [],
+                        "mentionedUsers": [],
+                        "urls": []
+                    },
+                    "media": [
+                        {
+                            "url": "https://pbs.twimg.com/media/Gge4YE_WcAAi310.jpg",
+                            "type": "photo"
+                        }
+                    ],
+                    "fullText": "https://t.co/bIHvcvfedL",
+                    "lang": "zxx",
+                    "quoteCount": 0,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "likeCount": 0,
+                    "viewCount": 205,
+                    "bookmarkCount": 0
+                },
+                {
+                    "id": "1875635653494632622",
+                    "createdAt": "Sat Jan 04 20:09:22 +0000 2025",
+                    "tweetBy": {
+                        "id": "981374447449006080",
+                        "userName": "dreamingsafely",
+                        "fullName": "𝓂𝒾𝓇𝒶𝓃𝒹𝒶 🍒",
+                        "createdAt": "Wed Apr 04 03:34:36 +0000 2018",
+                        "description": "blessed are those who hunger and thirst for righteousness, for they will be filled ♱ Lana del Rey #1 fan - your local it girl ˚♡˚₊‧⁺˖ Aries",
+                        "isVerified": false,
+                        "likeCount": 113954,
+                        "followersCount": 2717,
+                        "followingsCount": 649,
+                        "statusesCount": 34315,
+                        "pinnedTweet": "1869386907173662984",
+                        "profileBanner": "https://pbs.twimg.com/profile_banners/981374447449006080/1735675022",
+                        "profileImage": "https://pbs.twimg.com/profile_images/1875554659479199744/rWQMn84N_normal.jpg"
+                    },
+                    "entities": {
+                        "hashtags": [],
+                        "mentionedUsers": [],
+                        "urls": [
+                            "https://open.spotify.com/track/6OJpeTE1wIBHBP9149QOcO"
+                        ]
+                    },
+                    "fullText": "https://t.co/rBGTJbhsau? Essa eh poesia",
+                    "lang": "it",
+                    "quoteCount": 0,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "likeCount": 1,
+                    "viewCount": 110,
+                    "bookmarkCount": 0
+                },
+                {
+                    "id": "1875612817581314535",
+                    "createdAt": "Sat Jan 04 18:38:37 +0000 2025",
+                    "tweetBy": {
+                        "id": "981374447449006080",
+                        "userName": "dreamingsafely",
+                        "fullName": "𝓂𝒾𝓇𝒶𝓃𝒹𝒶 🍒",
+                        "createdAt": "Wed Apr 04 03:34:36 +0000 2018",
+                        "description": "blessed are those who hunger and thirst for righteousness, for they will be filled ♱ Lana del Rey #1 fan - your local it girl ˚♡˚₊‧⁺˖ Aries",
+                        "isVerified": false,
+                        "likeCount": 113954,
+                        "followersCount": 2717,
+                        "followingsCount": 649,
+                        "statusesCount": 34315,
+                        "pinnedTweet": "1869386907173662984",
+                        "profileBanner": "https://pbs.twimg.com/profile_banners/981374447449006080/1735675022",
+                        "profileImage": "https://pbs.twimg.com/profile_images/1875554659479199744/rWQMn84N_normal.jpg"
+                    },
+                    "entities": {
+                        "hashtags": [],
+                        "mentionedUsers": [],
+                        "urls": []
+                    },
+                    "fullText": "Como pode orquídeas",
+                    "lang": "es",
+                    "quoteCount": 0,
+                    "replyCount": 0,
+                    "retweetCount": 0,
+                    "likeCount": 0,
+                    "viewCount": 129,
+                    "bookmarkCount": 0
+                }
+            ],
+            "latest_liked": null
+        }
+    ],
+    "timeline": [
+        {
+            "id": "1876449331160703487",
+            "createdAt": "Tue Jan 07 02:02:37 +0000 2025",
+            "tweetBy": {
+                "id": "1480870497453850624",
+                "userName": "iukkjk",
+                "fullName": "letiti",
+                "createdAt": "Tue Jan 11 11:54:03 +0000 2022",
+                "description": "dear diary (miss understood)",
+                "isVerified": false,
+                "likeCount": 35589,
+                "followersCount": 108,
+                "followingsCount": 138,
+                "statusesCount": 2595,
+                "location": "curitiba",
+                "profileBanner": "https://pbs.twimg.com/profile_banners/1480870497453850624/1732028530",
+                "profileImage": "https://pbs.twimg.com/profile_images/1858888377140908032/dJaVgnID_normal.jpg"
+            },
+            "entities": {
+                "hashtags": [],
+                "mentionedUsers": [],
+                "urls": []
+            },
+            "fullText": "chega esse horário e tudo que eu mais queria era estar dormindo com ele",
+            "lang": "pt",
+            "quoteCount": 0,
+            "replyCount": 0,
+            "retweetCount": 0,
+            "likeCount": 0,
+            "viewCount": 25,
+            "bookmarkCount": 0
+        },
+        {
+            "id": "1876449150461755547",
+            "createdAt": "Tue Jan 07 02:01:54 +0000 2025",
+            "tweetBy": {
+                "id": "1480870497453850624",
+                "userName": "iukkjk",
+                "fullName": "letiti",
+                "createdAt": "Tue Jan 11 11:54:03 +0000 2022",
+                "description": "dear diary (miss understood)",
+                "isVerified": false,
+                "likeCount": 35589,
+                "followersCount": 108,
+                "followingsCount": 138,
+                "statusesCount": 2595,
+                "location": "curitiba",
+                "profileBanner": "https://pbs.twimg.com/profile_banners/1480870497453850624/1732028530",
+                "profileImage": "https://pbs.twimg.com/profile_images/1858888377140908032/dJaVgnID_normal.jpg"
+            },
+            "entities": {
+                "hashtags": [],
+                "mentionedUsers": [],
+                "urls": []
+            },
+            "fullText": "ai ai que saudade do meu amado",
+            "lang": "pt",
+            "quoteCount": 0,
+            "replyCount": 0,
+            "retweetCount": 0,
+            "likeCount": 0,
+            "viewCount": 21,
+            "bookmarkCount": 0
+        },
+        {
+            "id": "1874201680298103217",
+            "createdAt": "Tue Dec 31 21:11:16 +0000 2024",
+            "tweetBy": {
+                "id": "1480870497453850624",
+                "userName": "iukkjk",
+                "fullName": "letiti",
+                "createdAt": "Tue Jan 11 11:54:03 +0000 2022",
+                "description": "dear diary (miss understood)",
+                "isVerified": false,
+                "likeCount": 35589,
+                "followersCount": 108,
+                "followingsCount": 138,
+                "statusesCount": 2595,
+                "location": "curitiba",
+                "profileBanner": "https://pbs.twimg.com/profile_banners/1480870497453850624/1732028530",
+                "profileImage": "https://pbs.twimg.com/profile_images/1858888377140908032/dJaVgnID_normal.jpg"
+            },
+            "entities": {
+                "hashtags": [],
+                "mentionedUsers": [
+                    "leozaduski"
+                ],
+                "urls": []
+            },
+            "fullText": "@leozaduski laranja",
+            "replyTo": "1874197603086459203",
+            "lang": "es",
+            "quoteCount": 0,
+            "replyCount": 0,
+            "retweetCount": 0,
+            "likeCount": 1,
+            "viewCount": 6,
+            "bookmarkCount": 0
+        },
+        {
+            "id": "1873805233639522764",
+            "createdAt": "Mon Dec 30 18:55:55 +0000 2024",
+            "tweetBy": {
+                "id": "1480870497453850624",
+                "userName": "iukkjk",
+                "fullName": "letiti",
+                "createdAt": "Tue Jan 11 11:54:03 +0000 2022",
+                "description": "dear diary (miss understood)",
+                "isVerified": false,
+                "likeCount": 35589,
+                "followersCount": 108,
+                "followingsCount": 138,
+                "statusesCount": 2595,
+                "location": "curitiba",
+                "profileBanner": "https://pbs.twimg.com/profile_banners/1480870497453850624/1732028530",
+                "profileImage": "https://pbs.twimg.com/profile_images/1858888377140908032/dJaVgnID_normal.jpg"
+            },
+            "entities": {
+                "hashtags": [],
+                "mentionedUsers": [
+                    "leozaduski"
+                ],
+                "urls": []
+            },
+            "fullText": "@leozaduski eu quero ver o video pós 6 litros",
+            "replyTo": "1873718427241869778",
+            "lang": "pt",
+            "quoteCount": 0,
+            "replyCount": 0,
+            "retweetCount": 0,
+            "likeCount": 1,
+            "viewCount": 16,
+            "bookmarkCount": 0
+        },
+        {
+            "id": "1873030264571732419",
+            "createdAt": "Sat Dec 28 15:36:28 +0000 2024",
+            "tweetBy": {
+                "id": "1480870497453850624",
+                "userName": "iukkjk",
+                "fullName": "letiti",
+                "createdAt": "Tue Jan 11 11:54:03 +0000 2022",
+                "description": "dear diary (miss understood)",
+                "isVerified": false,
+                "likeCount": 35589,
+                "followersCount": 108,
+                "followingsCount": 138,
+                "statusesCount": 2595,
+                "location": "curitiba",
+                "profileBanner": "https://pbs.twimg.com/profile_banners/1480870497453850624/1732028530",
+                "profileImage": "https://pbs.twimg.com/profile_images/1858888377140908032/dJaVgnID_normal.jpg"
+            },
+            "entities": {
+                "hashtags": [],
+                "mentionedUsers": [],
+                "urls": []
+            },
+            "fullText": "passeio de caique no domingo ebaaaaa",
+            "lang": "pt",
+            "quoteCount": 0,
+            "replyCount": 0,
+            "retweetCount": 0,
+            "likeCount": 0,
+            "viewCount": 35,
+            "bookmarkCount": 0
+        },
+        {
+            "id": "1873029083170521290",
+            "createdAt": "Sat Dec 28 15:31:47 +0000 2024",
+            "tweetBy": {
+                "id": "1480870497453850624",
+                "userName": "iukkjk",
+                "fullName": "letiti",
+                "createdAt": "Tue Jan 11 11:54:03 +0000 2022",
+                "description": "dear diary (miss understood)",
+                "isVerified": false,
+                "likeCount": 35589,
+                "followersCount": 108,
+                "followingsCount": 138,
+                "statusesCount": 2595,
+                "location": "curitiba",
+                "profileBanner": "https://pbs.twimg.com/profile_banners/1480870497453850624/1732028530",
+                "profileImage": "https://pbs.twimg.com/profile_images/1858888377140908032/dJaVgnID_normal.jpg"
+            },
+            "entities": {
+                "hashtags": [],
+                "mentionedUsers": [],
+                "urls": []
+            },
+            "quoted": {
+                "id": "1872632972547150166",
+                "createdAt": "Fri Dec 27 13:17:47 +0000 2024",
+                "tweetBy": {
+                    "id": "1033152632527892480",
+                    "userName": "JacksonWang852",
+                    "fullName": "Jackson Wang",
+                    "createdAt": "Sat Aug 25 00:42:37 +0000 2018",
+                    "isVerified": true,
+                    "likeCount": 1028,
+                    "followersCount": 8078091,
+                    "followingsCount": 106,
+                    "statusesCount": 1977,
+                    "pinnedTweet": "1783727726782030050",
+                    "profileBanner": "https://pbs.twimg.com/profile_banners/1033152632527892480/1648575766",
+                    "profileImage": "https://pbs.twimg.com/profile_images/1568125934846509059/vlHSZwY2_normal.jpg"
+                },
+                "entities": {
+                    "hashtags": [],
+                    "mentionedUsers": [],
+                    "urls": []
+                },
+                "media": [
+                    {
+                        "url": "https://pbs.twimg.com/media/GfztwNnaEAAzII7.jpg",
+                        "type": "photo"
+                    },
+                    {
+                        "url": "https://pbs.twimg.com/media/GfztwNobQAA2SBr.jpg",
+                        "type": "photo"
+                    },
+                    {
+                        "url": "https://pbs.twimg.com/media/GfztwNvagAEm0Yf.jpg",
+                        "type": "photo"
+                    },
+                    {
+                        "url": "https://pbs.twimg.com/media/GfztwNnb0AAlwMg.jpg",
+                        "type": "photo"
+                    }
+                ],
+                "fullText": "Fav choco brand.\nRecommend plz.\nIll get it asap. https://t.co/O56Q6Uucuw",
+                "lang": "en",
+                "quoteCount": 600,
+                "replyCount": 1900,
+                "retweetCount": 13373,
+                "likeCount": 41287,
+                "viewCount": 513080,
+                "bookmarkCount": 457
+            },
+            "fullText": "oiiiiii te amooooo",
+            "lang": "pt",
+            "quoteCount": 0,
+            "replyCount": 0,
+            "retweetCount": 0,
+            "likeCount": 0,
+            "viewCount": 64,
+            "bookmarkCount": 0
+        },
+        {
+            "id": "1873029043173589052",
+            "createdAt": "Sat Dec 28 15:31:37 +0000 2024",
+            "tweetBy": {
+                "id": "1480870497453850624",
+                "userName": "iukkjk",
+                "fullName": "letiti",
+                "createdAt": "Tue Jan 11 11:54:03 +0000 2022",
+                "description": "dear diary (miss understood)",
+                "isVerified": false,
+                "likeCount": 35589,
+                "followersCount": 108,
+                "followingsCount": 138,
+                "statusesCount": 2595,
+                "location": "curitiba",
+                "profileBanner": "https://pbs.twimg.com/profile_banners/1480870497453850624/1732028530",
+                "profileImage": "https://pbs.twimg.com/profile_images/1858888377140908032/dJaVgnID_normal.jpg"
+            },
+            "entities": {
+                "hashtags": [],
+                "mentionedUsers": [],
+                "urls": [
+                    "https://open.spotify.com/track/6btyEL6NwUa97Nex9cZFvo?si=D7OMo-C8QG-7s_tDoKS0og"
+                ]
+            },
+            "fullText": "https://t.co/auDrfbBHmc",
+            "lang": "zxx",
+            "quoteCount": 0,
+            "replyCount": 0,
+            "retweetCount": 0,
+            "likeCount": 0,
+            "viewCount": 21,
+            "bookmarkCount": 0
+        },
+        {
+            "id": "1873029004846088481",
+            "createdAt": "Sat Dec 28 15:31:28 +0000 2024",
+            "tweetBy": {
+                "id": "1480870497453850624",
+                "userName": "iukkjk",
+                "fullName": "letiti",
+                "createdAt": "Tue Jan 11 11:54:03 +0000 2022",
+                "description": "dear diary (miss understood)",
+                "isVerified": false,
+                "likeCount": 35589,
+                "followersCount": 108,
+                "followingsCount": 138,
+                "statusesCount": 2595,
+                "location": "curitiba",
+                "profileBanner": "https://pbs.twimg.com/profile_banners/1480870497453850624/1732028530",
+                "profileImage": "https://pbs.twimg.com/profile_images/1858888377140908032/dJaVgnID_normal.jpg"
+            },
+            "entities": {
+                "hashtags": [],
+                "mentionedUsers": [],
+                "urls": []
+            },
+            "fullText": "ta so tocando musica de praia praiosa o spotify esta querendo pika e nao esta sabendo pedir",
+            "lang": "pt",
+            "quoteCount": 0,
+            "replyCount": 0,
+            "retweetCount": 0,
+            "likeCount": 0,
+            "viewCount": 33,
+            "bookmarkCount": 0
+        },
+        {
+            "id": "1873028494466371943",
+            "createdAt": "Sat Dec 28 15:29:26 +0000 2024",
+            "tweetBy": {
+                "id": "1480870497453850624",
+                "userName": "iukkjk",
+                "fullName": "letiti",
+                "createdAt": "Tue Jan 11 11:54:03 +0000 2022",
+                "description": "dear diary (miss understood)",
+                "isVerified": false,
+                "likeCount": 35589,
+                "followersCount": 108,
+                "followingsCount": 138,
+                "statusesCount": 2595,
+                "location": "curitiba",
+                "profileBanner": "https://pbs.twimg.com/profile_banners/1480870497453850624/1732028530",
+                "profileImage": "https://pbs.twimg.com/profile_images/1858888377140908032/dJaVgnID_normal.jpg"
+            },
+            "entities": {
+                "hashtags": [],
+                "mentionedUsers": [],
+                "urls": []
+            },
+            "fullText": "o uber esta me levando pra pucpr repito o uber esta me levando para a pucpr alguem me salve nao quero voltar ao inferno antes do tempo combinado",
+            "lang": "pt",
+            "quoteCount": 0,
+            "replyCount": 0,
+            "retweetCount": 0,
+            "likeCount": 0,
+            "viewCount": 28,
+            "bookmarkCount": 0
+        },
+        {
+            "id": "1873028306670592295",
+            "createdAt": "Sat Dec 28 15:28:42 +0000 2024",
+            "tweetBy": {
+                "id": "1480870497453850624",
+                "userName": "iukkjk",
+                "fullName": "letiti",
+                "createdAt": "Tue Jan 11 11:54:03 +0000 2022",
+                "description": "dear diary (miss understood)",
+                "isVerified": false,
+                "likeCount": 35589,
+                "followersCount": 108,
+                "followingsCount": 138,
+                "statusesCount": 2595,
+                "location": "curitiba",
+                "profileBanner": "https://pbs.twimg.com/profile_banners/1480870497453850624/1732028530",
+                "profileImage": "https://pbs.twimg.com/profile_images/1858888377140908032/dJaVgnID_normal.jpg"
+            },
+            "entities": {
+                "hashtags": [],
+                "mentionedUsers": [],
+                "urls": [
+                    "https://open.spotify.com/track/6wpDQGn3Gl0j9Wt6D6mYvQ?si=W3qhFQuLRaSJdYLuQRLSfA"
+                ]
+            },
+            "fullText": "https://t.co/Sy9rF1XZsC",
+            "lang": "zxx",
+            "quoteCount": 0,
+            "replyCount": 0,
+            "retweetCount": 0,
+            "likeCount": 0,
+            "viewCount": 23,
+            "bookmarkCount": 0
+        },
+        {
+            "id": "1873027912578023820",
+            "createdAt": "Sat Dec 28 15:27:08 +0000 2024",
+            "tweetBy": {
+                "id": "1480870497453850624",
+                "userName": "iukkjk",
+                "fullName": "letiti",
+                "createdAt": "Tue Jan 11 11:54:03 +0000 2022",
+                "description": "dear diary (miss understood)",
+                "isVerified": false,
+                "likeCount": 35589,
+                "followersCount": 108,
+                "followingsCount": 138,
+                "statusesCount": 2595,
+                "location": "curitiba",
+                "profileBanner": "https://pbs.twimg.com/profile_banners/1480870497453850624/1732028530",
+                "profileImage": "https://pbs.twimg.com/profile_images/1858888377140908032/dJaVgnID_normal.jpg"
+            },
+            "entities": {
+                "hashtags": [],
+                "mentionedUsers": [],
+                "urls": []
+            },
+            "quoted": {
+                "id": "1872230546098823303",
+                "createdAt": "Thu Dec 26 10:38:41 +0000 2024",
+                "tweetBy": {
+                    "id": "963802715775217669",
+                    "userName": "havenIy",
+                    "fullName": "maría",
+                    "createdAt": "Wed Feb 14 15:50:48 +0000 2018",
+                    "isVerified": false,
+                    "likeCount": 136566,
+                    "followersCount": 17061,
+                    "followingsCount": 348,
+                    "statusesCount": 20539,
+                    "pinnedTweet": "1670423747222798339",
+                    "profileBanner": "https://pbs.twimg.com/profile_banners/963802715775217669/1736030145",
+                    "profileImage": "https://pbs.twimg.com/profile_images/1746632912219381761/24peTONp_normal.jpg"
+                },
+                "entities": {
+                    "hashtags": [],
+                    "mentionedUsers": [],
+                    "urls": []
+                },
+                "media": [
+                    {
+                        "url": "https://pbs.twimg.com/media/Gft_wYQWUAAEtLw.jpg",
+                        "type": "photo"
+                    },
+                    {
+                        "url": "https://pbs.twimg.com/media/Gft_wYLWkAAYx3B.jpg",
+                        "type": "photo"
+                    },
+                    {
+                        "url": "https://pbs.twimg.com/media/Gft_wYMXUAAAoZN.jpg",
+                        "type": "photo"
+                    },
+                    {
+                        "url": "https://pbs.twimg.com/media/Gft_wYKXIAAOJow.jpg",
+                        "type": "photo"
+                    }
+                ],
+                "fullText": "wedding pics 🤍 https://t.co/0590PSyqnq",
+                "lang": "en",
+                "quoteCount": 1481,
+                "replyCount": 6,
+                "retweetCount": 3875,
+                "likeCount": 64199,
+                "viewCount": 9511079,
+                "bookmarkCount": 7099
+            },
+            "fullText": "meu sonho entrar com um buque de orquideas brancas bem assim mesmo",
+            "lang": "pt",
+            "quoteCount": 0,
+            "replyCount": 0,
+            "retweetCount": 0,
+            "likeCount": 0,
+            "viewCount": 69,
+            "bookmarkCount": 0
+        },
+        {
+            "id": "1873027551645618330",
+            "createdAt": "Sat Dec 28 15:25:42 +0000 2024",
+            "tweetBy": {
+                "id": "1480870497453850624",
+                "userName": "iukkjk",
+                "fullName": "letiti",
+                "createdAt": "Tue Jan 11 11:54:03 +0000 2022",
+                "description": "dear diary (miss understood)",
+                "isVerified": false,
+                "likeCount": 35589,
+                "followersCount": 108,
+                "followingsCount": 138,
+                "statusesCount": 2595,
+                "location": "curitiba",
+                "profileBanner": "https://pbs.twimg.com/profile_banners/1480870497453850624/1732028530",
+                "profileImage": "https://pbs.twimg.com/profile_images/1858888377140908032/dJaVgnID_normal.jpg"
+            },
+            "entities": {
+                "hashtags": [],
+                "mentionedUsers": [],
+                "urls": []
+            },
+            "fullText": "nao vejo a hora de estar assim da silva bem fireball dos santos na praia",
+            "replyTo": "1873027027189805537",
+            "lang": "pt",
+            "quoteCount": 0,
+            "replyCount": 0,
+            "retweetCount": 0,
+            "likeCount": 0,
+            "viewCount": 28,
+            "bookmarkCount": 0
+        },
+        {
+            "id": "1873027027189805537",
+            "createdAt": "Sat Dec 28 15:23:37 +0000 2024",
+            "tweetBy": {
+                "id": "1480870497453850624",
+                "userName": "iukkjk",
+                "fullName": "letiti",
+                "createdAt": "Tue Jan 11 11:54:03 +0000 2022",
+                "description": "dear diary (miss understood)",
+                "isVerified": false,
+                "likeCount": 35589,
+                "followersCount": 108,
+                "followingsCount": 138,
+                "statusesCount": 2595,
+                "location": "curitiba",
+                "profileBanner": "https://pbs.twimg.com/profile_banners/1480870497453850624/1732028530",
+                "profileImage": "https://pbs.twimg.com/profile_images/1858888377140908032/dJaVgnID_normal.jpg"
+            },
+            "entities": {
+                "hashtags": [],
+                "mentionedUsers": [],
+                "urls": [
+                    "https://open.spotify.com/track/4Y7XAxTANhu3lmnLAzhWJW?si=0_lf8aGwTBeZX9XrfD7laA"
+                ]
+            },
+            "fullText": "https://t.co/XFTD1PRexP",
+            "lang": "zxx",
+            "quoteCount": 0,
+            "replyCount": 1,
+            "retweetCount": 0,
+            "likeCount": 0,
+            "viewCount": 32,
+            "bookmarkCount": 0
+        },
+        {
+            "id": "1873026518127133076",
+            "createdAt": "Sat Dec 28 15:21:35 +0000 2024",
+            "tweetBy": {
+                "id": "1480870497453850624",
+                "userName": "iukkjk",
+                "fullName": "letiti",
+                "createdAt": "Tue Jan 11 11:54:03 +0000 2022",
+                "description": "dear diary (miss understood)",
+                "isVerified": false,
+                "likeCount": 35589,
+                "followersCount": 108,
+                "followingsCount": 138,
+                "statusesCount": 2595,
+                "location": "curitiba",
+                "profileBanner": "https://pbs.twimg.com/profile_banners/1480870497453850624/1732028530",
+                "profileImage": "https://pbs.twimg.com/profile_images/1858888377140908032/dJaVgnID_normal.jpg"
+            },
+            "entities": {
+                "hashtags": [],
+                "mentionedUsers": [
+                    "dreamingsafely"
+                ],
+                "urls": []
+            },
+            "fullText": "@dreamingsafely meu Deus???? seu shape????? uau?????? eu to sem ar???? passa seu treino dieta suplementos??????????? alo?????",
+            "replyTo": "1873004815577694253",
+            "lang": "pt",
+            "quoteCount": 0,
+            "replyCount": 1,
+            "retweetCount": 0,
+            "likeCount": 1,
+            "viewCount": 38,
+            "bookmarkCount": 0
+        },
+        {
+            "id": "1871990628877484528",
+            "createdAt": "Wed Dec 25 18:45:20 +0000 2024",
+            "tweetBy": {
+                "id": "1480870497453850624",
+                "userName": "iukkjk",
+                "fullName": "letiti",
+                "createdAt": "Tue Jan 11 11:54:03 +0000 2022",
+                "description": "dear diary (miss understood)",
+                "isVerified": false,
+                "likeCount": 35589,
+                "followersCount": 108,
+                "followingsCount": 138,
+                "statusesCount": 2595,
+                "location": "curitiba",
+                "profileBanner": "https://pbs.twimg.com/profile_banners/1480870497453850624/1732028530",
+                "profileImage": "https://pbs.twimg.com/profile_images/1858888377140908032/dJaVgnID_normal.jpg"
+            },
+            "entities": {
+                "hashtags": [],
+                "mentionedUsers": [],
+                "urls": []
+            },
+            "fullText": "QUERO MEU NAMORADO",
+            "lang": "pt",
+            "quoteCount": 0,
+            "replyCount": 0,
+            "retweetCount": 0,
+            "likeCount": 0,
+            "viewCount": 28,
+            "bookmarkCount": 0
+        },
+        {
+            "id": "1870208340875448668",
+            "createdAt": "Fri Dec 20 20:43:09 +0000 2024",
+            "tweetBy": {
+                "id": "1480870497453850624",
+                "userName": "iukkjk",
+                "fullName": "letiti",
+                "createdAt": "Tue Jan 11 11:54:03 +0000 2022",
+                "description": "dear diary (miss understood)",
+                "isVerified": false,
+                "likeCount": 35589,
+                "followersCount": 108,
+                "followingsCount": 138,
+                "statusesCount": 2595,
+                "location": "curitiba",
+                "profileBanner": "https://pbs.twimg.com/profile_banners/1480870497453850624/1732028530",
+                "profileImage": "https://pbs.twimg.com/profile_images/1858888377140908032/dJaVgnID_normal.jpg"
+            },
+            "entities": {
+                "hashtags": [],
+                "mentionedUsers": [
+                    "whomath",
+                    "_Ray_Machine_",
+                    "scourgeyyy"
+                ],
+                "urls": []
+            },
+            "fullText": "@whomath @_Ray_Machine_ @scourgeyyy uma pessoa ai no começo do cursi",
+            "replyTo": "1869828649123492299",
+            "lang": "pt",
+            "quoteCount": 0,
+            "replyCount": 1,
+            "retweetCount": 0,
+            "likeCount": 0,
+            "viewCount": 11,
+            "bookmarkCount": 0
+        },
+        {
+            "id": "1870077779846541399",
+            "createdAt": "Fri Dec 20 12:04:21 +0000 2024",
+            "tweetBy": {
+                "id": "1480870497453850624",
+                "userName": "iukkjk",
+                "fullName": "letiti",
+                "createdAt": "Tue Jan 11 11:54:03 +0000 2022",
+                "description": "dear diary (miss understood)",
+                "isVerified": false,
+                "likeCount": 35589,
+                "followersCount": 108,
+                "followingsCount": 138,
+                "statusesCount": 2595,
+                "location": "curitiba",
+                "profileBanner": "https://pbs.twimg.com/profile_banners/1480870497453850624/1732028530",
+                "profileImage": "https://pbs.twimg.com/profile_images/1858888377140908032/dJaVgnID_normal.jpg"
+            },
+            "entities": {
+                "hashtags": [],
+                "mentionedUsers": [
+                    "jgabko_nova"
+                ],
+                "urls": []
+            },
+            "fullText": "@jgabko_nova va pra praia va tomar um sol uma agua de coco va",
+            "replyTo": "1870077409640267783",
+            "lang": "pt",
+            "quoteCount": 0,
+            "replyCount": 0,
+            "retweetCount": 0,
+            "likeCount": 0,
+            "viewCount": 11,
+            "bookmarkCount": 0
+        },
+        {
+            "id": "1869941144949346756",
+            "createdAt": "Fri Dec 20 03:01:25 +0000 2024",
+            "tweetBy": {
+                "id": "1480870497453850624",
+                "userName": "iukkjk",
+                "fullName": "letiti",
+                "createdAt": "Tue Jan 11 11:54:03 +0000 2022",
+                "description": "dear diary (miss understood)",
+                "isVerified": false,
+                "likeCount": 35589,
+                "followersCount": 108,
+                "followingsCount": 138,
+                "statusesCount": 2595,
+                "location": "curitiba",
+                "profileBanner": "https://pbs.twimg.com/profile_banners/1480870497453850624/1732028530",
+                "profileImage": "https://pbs.twimg.com/profile_images/1858888377140908032/dJaVgnID_normal.jpg"
+            },
+            "entities": {
+                "hashtags": [
+                    "naofodocomvoces"
+                ],
+                "mentionedUsers": [],
+                "urls": []
+            },
+            "quoted": {
+                "id": "1869576498342199691",
+                "createdAt": "Thu Dec 19 02:52:26 +0000 2024",
+                "tweetBy": {
+                    "id": "1395596432736980994",
+                    "userName": "souludx",
+                    "fullName": "cantora porno",
+                    "createdAt": "Fri May 21 04:25:03 +0000 2021",
+                    "description": "cantora estrábicaa y modelo alt",
+                    "isVerified": false,
+                    "likeCount": 18069,
+                    "followersCount": 93362,
+                    "followingsCount": 227,
+                    "statusesCount": 12957,
+                    "pinnedTweet": "1865474636013552126",
+                    "profileBanner": "https://pbs.twimg.com/profile_banners/1395596432736980994/1736020848",
+                    "profileImage": "https://pbs.twimg.com/profile_images/1875684679992418306/MzioRtoK_normal.jpg"
+                },
+                "entities": {
+                    "hashtags": [],
+                    "mentionedUsers": [],
+                    "urls": []
+                },
+                "media": [
+                    {
+                        "url": "https://pbs.twimg.com/media/GfIR6nDWIAA7J1B.jpg",
+                        "type": "photo"
+                    }
+                ],
+                "fullText": "https://t.co/fnNAcchLhD",
+                "lang": "zxx",
+                "quoteCount": 86,
+                "replyCount": 94,
+                "retweetCount": 619,
+                "likeCount": 6178,
+                "viewCount": 309391,
+                "bookmarkCount": 261
+            },
+            "fullText": "alguns de voces ai #naofodocomvoces",
+            "lang": "pt",
+            "quoteCount": 0,
+            "replyCount": 1,
+            "retweetCount": 0,
+            "likeCount": 1,
+            "viewCount": 65,
+            "bookmarkCount": 0
+        },
+        {
+            "id": "1869940388225798484",
+            "createdAt": "Fri Dec 20 02:58:25 +0000 2024",
+            "tweetBy": {
+                "id": "1480870497453850624",
+                "userName": "iukkjk",
+                "fullName": "letiti",
+                "createdAt": "Tue Jan 11 11:54:03 +0000 2022",
+                "description": "dear diary (miss understood)",
+                "isVerified": false,
+                "likeCount": 35589,
+                "followersCount": 108,
+                "followingsCount": 138,
+                "statusesCount": 2595,
+                "location": "curitiba",
+                "profileBanner": "https://pbs.twimg.com/profile_banners/1480870497453850624/1732028530",
+                "profileImage": "https://pbs.twimg.com/profile_images/1858888377140908032/dJaVgnID_normal.jpg"
+            },
+            "entities": {
+                "hashtags": [],
+                "mentionedUsers": [],
+                "urls": [
+                    "https://open.spotify.com/track/4ZsyrBZX0YMopDJjGpva5j?si=LYUCDR3WTyWJHuspAQYDwA&context=spotify%3Aplaylist%3A5ipnXoByzxbTqD5o1o25zR"
+                ]
+            },
+            "fullText": "as vezes tenho vontade de comprar coisas com cheiro de tangerina só por causa dessa musica https://t.co/wLts0dtRDu",
+            "lang": "pt",
+            "quoteCount": 0,
+            "replyCount": 0,
+            "retweetCount": 0,
+            "likeCount": 0,
+            "viewCount": 25,
+            "bookmarkCount": 0
+        },
+        {
+            "id": "1869939422768025869",
+            "createdAt": "Fri Dec 20 02:54:34 +0000 2024",
+            "tweetBy": {
+                "id": "1480870497453850624",
+                "userName": "iukkjk",
+                "fullName": "letiti",
+                "createdAt": "Tue Jan 11 11:54:03 +0000 2022",
+                "description": "dear diary (miss understood)",
+                "isVerified": false,
+                "likeCount": 35589,
+                "followersCount": 108,
+                "followingsCount": 138,
+                "statusesCount": 2595,
+                "location": "curitiba",
+                "profileBanner": "https://pbs.twimg.com/profile_banners/1480870497453850624/1732028530",
+                "profileImage": "https://pbs.twimg.com/profile_images/1858888377140908032/dJaVgnID_normal.jpg"
+            },
+            "entities": {
+                "hashtags": [],
+                "mentionedUsers": [],
+                "urls": []
+            },
+            "fullText": "acho mei engraçado que a minha relação com alguns fofoletes é checar o estado mental deles e a recíproca do outro lado",
+            "lang": "pt",
+            "quoteCount": 0,
+            "replyCount": 0,
+            "retweetCount": 0,
+            "likeCount": 1,
+            "viewCount": 29,
+            "bookmarkCount": 0
+        }
+    ],
+    "latest_liked": [
+        {
+            "id": "1876386826078031883",
+            "createdAt": "Mon Jan 06 21:54:15 +0000 2025",
+            "tweetBy": {
+                "id": "1584266746445398017",
+                "userName": "checkzdotcom",
+                "fullName": "Haidar $€£¥",
+                "createdAt": "Sun Oct 23 19:33:26 +0000 2022",
+                "description": "Sales and Marketing // Get money",
+                "isVerified": false,
+                "likeCount": 59568,
+                "followersCount": 14212,
+                "followingsCount": 93,
+                "statusesCount": 588,
+                "location": "Hall Of Fame",
+                "pinnedTweet": "1861864590943899830",
+                "profileBanner": "https://pbs.twimg.com/profile_banners/1584266746445398017/1726644942",
+                "profileImage": "https://pbs.twimg.com/profile_images/1868045226876477440/RjQzaerb_normal.jpg"
+            },
+            "entities": {
+                "hashtags": [],
+                "mentionedUsers": [],
+                "urls": []
+            },
+            "fullText": "Ur gf doesn’t want u to get money and attract other females\n\nUr parents want u to play it safe\n\nUr friends dont want u to be better than them\n\nUr the only guy who wants you to win and live ur dream life  \n\nSo why are u listening to others?\n\ntrust yourself 24/7\n\nU know what u want",
+            "lang": "en",
+            "quoteCount": 7,
+            "replyCount": 16,
+            "retweetCount": 225,
+            "likeCount": 2207,
+            "viewCount": 40076,
+            "bookmarkCount": 526
+        },
+        {
+            "id": "1876419712776868327",
+            "createdAt": "Tue Jan 07 00:04:56 +0000 2025",
+            "tweetBy": {
+                "id": "1675308325142167553",
+                "userName": "zeokatt",
+                "fullName": "Zeo",
+                "createdAt": "Sun Jul 02 01:00:55 +0000 2023",
+                "description": "life sucks, music heals.",
+                "isVerified": true,
+                "likeCount": 36164,
+                "followersCount": 5740,
+                "followingsCount": 4940,
+                "statusesCount": 96694,
+                "location": "Him",
+                "pinnedTweet": "1875331038765027651",
+                "profileBanner": "https://pbs.twimg.com/profile_banners/1675308325142167553/1727094960",
+                "profileImage": "https://pbs.twimg.com/profile_images/1857850679509004288/4rNg2o5S_normal.jpg"
+            },
+            "entities": {
+                "hashtags": [],
+                "mentionedUsers": [],
+                "urls": []
+            },
+            "media": [
+                {
+                    "url": "https://pbs.twimg.com/media/Ggphx5paUAAbB7z.jpg",
+                    "type": "photo"
+                }
+            ],
+            "fullText": "https://t.co/JZv462nNHF",
+            "lang": "zxx",
+            "quoteCount": 341,
+            "replyCount": 496,
+            "retweetCount": 7111,
+            "likeCount": 18512,
+            "viewCount": 474180,
+            "bookmarkCount": 1137
+        },
+        {
+            "id": "1876412600831144377",
+            "createdAt": "Mon Jan 06 23:36:40 +0000 2025",
+            "tweetBy": {
+                "id": "1657476614979047424",
+                "userName": "qrcudy",
+                "fullName": "cudy",
+                "createdAt": "Sat May 13 20:03:22 +0000 2023",
+                "description": "quem com ferro fere com ferro ferido fere",
+                "isVerified": false,
+                "likeCount": 80373,
+                "followersCount": 10641,
+                "followingsCount": 567,
+                "statusesCount": 24240,
+                "location": "011",
+                "pinnedTweet": "1793640925647753242",
+                "profileBanner": "https://pbs.twimg.com/profile_banners/1657476614979047424/1708569300",
+                "profileImage": "https://pbs.twimg.com/profile_images/1728455078288183296/77GWm__F_normal.jpg"
+            },
+            "entities": {
+                "hashtags": [],
+                "mentionedUsers": [],
+                "urls": []
+            },
+            "media": [
+                {
+                    "url": "https://pbs.twimg.com/media/GgpbUPMXgAAES3A.jpg",
+                    "type": "photo"
+                }
+            ],
+            "fullText": "lembrando de uns tempos sombrios em que eu dividia apê com uma bicha e a decoração era essa https://t.co/0HCQKkV9Bp",
+            "lang": "pt",
+            "quoteCount": 913,
+            "replyCount": 900,
+            "retweetCount": 1148,
+            "likeCount": 54807,
+            "viewCount": 1013837,
+            "bookmarkCount": 969
+        },
+        {
+            "id": "1876296246912340329",
+            "createdAt": "Mon Jan 06 15:54:19 +0000 2025",
+            "tweetBy": {
+                "id": "1238511837722882048",
+                "userName": "LindyTasteful",
+                "fullName": "TastefulLindy",
+                "createdAt": "Fri Mar 13 17:07:09 +0000 2020",
+                "description": "la femme",
+                "isVerified": true,
+                "likeCount": 18513,
+                "followersCount": 201883,
+                "followingsCount": 604,
+                "statusesCount": 4105,
+                "pinnedTweet": "1637113600417443840",
+                "profileBanner": "https://pbs.twimg.com/profile_banners/1238511837722882048/1592617434",
+                "profileImage": "https://pbs.twimg.com/profile_images/1238516660870537217/pS3ZZjkL_normal.jpg"
+            },
+            "entities": {
+                "hashtags": [],
+                "mentionedUsers": [],
+                "urls": []
+            },
+            "media": [
+                {
+                    "url": "https://pbs.twimg.com/media/GgnxfkhWIAAlqWk.jpg",
+                    "type": "photo"
+                }
+            ],
+            "fullText": "There's something very sad about weekly meal prep. https://t.co/dmDW2K45AL",
+            "lang": "en",
+            "quoteCount": 170,
+            "replyCount": 520,
+            "retweetCount": 81,
+            "likeCount": 4843,
+            "viewCount": 675444,
+            "bookmarkCount": 549
+        },
+        {
+            "id": "1876439714338648557",
+            "createdAt": "Tue Jan 07 01:24:25 +0000 2025",
+            "tweetBy": {
+                "id": "1842842081833701376",
+                "userName": "0xIlyy",
+                "fullName": "ily⚡️",
+                "createdAt": "Sun Oct 06 08:19:33 +0000 2024",
+                "description": "swe, fighter, obsessed.",
+                "isVerified": true,
+                "likeCount": 47658,
+                "followersCount": 11445,
+                "followingsCount": 633,
+                "statusesCount": 17950,
+                "location": "🍁",
+                "pinnedTweet": "1866683960182399393",
+                "profileBanner": "https://pbs.twimg.com/profile_banners/1842842081833701376/1731376019",
+                "profileImage": "https://pbs.twimg.com/profile_images/1850266630367883266/H57Nflx2_normal.jpg"
+            },
+            "entities": {
+                "hashtags": [],
+                "mentionedUsers": [],
+                "urls": []
+            },
+            "fullText": "web dev? python\nAI? python\nHigh-performance native apps? python\nmicrocontroller? micropython\n\ni love python!!!!!!!!!",
+            "lang": "fr",
+            "quoteCount": 7,
+            "replyCount": 100,
+            "retweetCount": 22,
+            "likeCount": 594,
+            "viewCount": 19409,
+            "bookmarkCount": 56
+        },
+        {
+            "id": "1876398721027784712",
+            "createdAt": "Mon Jan 06 22:41:31 +0000 2025",
+            "tweetBy": {
+                "id": "893802292494950400",
+                "userName": "1500chan_",
+                "fullName": "Anões 📌",
+                "createdAt": "Sat Aug 05 11:54:07 +0000 2017",
+                "description": "Tudo que está escrito nesse fórum não passa de ficção.\nSomente um idiota levaria o /b/ a sério.",
+                "isVerified": false,
+                "likeCount": 90,
+                "followersCount": 12720,
+                "followingsCount": 0,
+                "statusesCount": 656,
+                "pinnedTweet": "1658221216996417537",
+                "profileBanner": "https://pbs.twimg.com/profile_banners/893802292494950400/1732645263",
+                "profileImage": "https://pbs.twimg.com/profile_images/1772983854308929536/qnS3_1n4_normal.png"
+            },
+            "entities": {
+                "hashtags": [],
+                "mentionedUsers": [],
+                "urls": []
+            },
+            "media": [
+                {
+                    "url": "https://pbs.twimg.com/media/GgpOsWrXoAA3fQ6.jpg",
+                    "type": "photo"
+                }
+            ],
+            "fullText": "https://t.co/PKVGdWz3Bw",
+            "lang": "zxx",
+            "quoteCount": 106,
+            "replyCount": 116,
+            "retweetCount": 523,
+            "likeCount": 13812,
+            "viewCount": 286425,
+            "bookmarkCount": 574
+        },
+        {
+            "id": "1876599736268173496",
+            "createdAt": "Tue Jan 07 12:00:17 +0000 2025",
+            "tweetBy": {
+                "id": "1050802209955418112",
+                "userName": "mangademeia",
+                "fullName": "titi",
+                "createdAt": "Fri Oct 12 17:35:44 +0000 2018",
+                "isVerified": false,
+                "likeCount": 16460,
+                "followersCount": 55,
+                "followingsCount": 268,
+                "statusesCount": 14313,
+                "location": "dormindo",
+                "pinnedTweet": "1614066939600535553",
+                "profileBanner": "https://pbs.twimg.com/profile_banners/1050802209955418112/1712033703",
+                "profileImage": "https://pbs.twimg.com/profile_images/1775024074105753600/a4Bcbk8c_normal.jpg"
+            },
+            "entities": {
+                "hashtags": [],
+                "mentionedUsers": [],
+                "urls": []
+            },
+            "fullText": "não queria trabalhar nunca mais",
+            "lang": "pt",
+            "quoteCount": 0,
+            "replyCount": 1,
+            "retweetCount": 0,
+            "likeCount": 2,
+            "viewCount": 21,
+            "bookmarkCount": 0
+        },
+        {
+            "id": "1876413529932312650",
+            "createdAt": "Mon Jan 06 23:40:22 +0000 2025",
+            "tweetBy": {
+                "id": "769952777300836356",
+                "userName": "Chief117Br",
+                "fullName": "Chief",
+                "createdAt": "Sun Aug 28 17:40:21 +0000 2016",
+                "description": "Lives: https://t.co/8MypV5wAZ3",
+                "isVerified": true,
+                "likeCount": 64437,
+                "followersCount": 111569,
+                "followingsCount": 641,
+                "statusesCount": 29530,
+                "profileBanner": "https://pbs.twimg.com/profile_banners/769952777300836356/1736169129",
+                "profileImage": "https://pbs.twimg.com/profile_images/1622727922384617474/o0mOngN9_normal.jpg"
+            },
+            "entities": {
+                "hashtags": [],
+                "mentionedUsers": [],
+                "urls": []
+            },
+            "quoted": {
+                "id": "1876351888724992347",
+                "createdAt": "Mon Jan 06 19:35:25 +0000 2025",
+                "tweetBy": {
+                    "id": "516243159",
+                    "userName": "LindaLua7",
+                    "fullName": "Patrícia",
+                    "createdAt": "Tue Mar 06 06:03:51 +0000 2012",
+                    "description": "Deus é bom o tempo todo 🙏🏻❤️❤️. \n\n     não respondo DM🚫",
+                    "isVerified": true,
+                    "likeCount": 83927,
+                    "followersCount": 33616,
+                    "followingsCount": 29227,
+                    "statusesCount": 44821,
+                    "location": "São Paulo, Brasil",
+                    "pinnedTweet": "1608943943374491649",
+                    "profileBanner": "https://pbs.twimg.com/profile_banners/516243159/1675399324",
+                    "profileImage": "https://pbs.twimg.com/profile_images/1875312696368799744/kzs8HueL_normal.jpg"
+                },
+                "entities": {
+                    "hashtags": [],
+                    "mentionedUsers": [],
+                    "urls": []
+                },
+                "media": [
+                    {
+                        "url": "https://video.twimg.com/ext_tw_video/1876351811251994624/pu/vid/avc1/576x576/pKNzSGEBj-ZwDJC6.mp4?tag=12",
+                        "type": "video"
+                    }
+                ],
+                "fullText": "Sinceramente, o que vcs acham disso? https://t.co/xsPy4iZwwa",
+                "lang": "pt",
+                "quoteCount": 383,
+                "replyCount": 1612,
+                "retweetCount": 151,
+                "likeCount": 4267,
+                "viewCount": 2448739,
+                "bookmarkCount": 720
+            },
+            "fullText": "Tem povo mais folgado que o Brasileiro? PQP KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK",
+            "lang": "pt",
+            "quoteCount": 16,
+            "replyCount": 261,
+            "retweetCount": 375,
+            "likeCount": 11671,
+            "viewCount": 1177449,
+            "bookmarkCount": 724
+        },
+        {
+            "id": "1876265497052029418",
+            "createdAt": "Mon Jan 06 13:52:08 +0000 2025",
+            "tweetBy": {
+                "id": "2374035912",
+                "userName": "theclaudiojr",
+                "fullName": "Claudio Jr.",
+                "createdAt": "Wed Mar 05 16:40:17 +0000 2014",
+                "description": "Professor.\nTradutor e intérprete.\nProdutor de conteúdo.\nAqui eu falo de Formula 1, falar de carros, postar teasers e reclamar da sociedade.\n\nBem-vindo",
+                "isVerified": false,
+                "likeCount": 178087,
+                "followersCount": 472,
+                "followingsCount": 803,
+                "statusesCount": 27853,
+                "location": "Timbó, SC",
+                "pinnedTweet": "1500217949688373249",
+                "profileBanner": "https://pbs.twimg.com/profile_banners/2374035912/1674733836",
+                "profileImage": "https://pbs.twimg.com/profile_images/1726689748587012096/R1YTJCVH_normal.jpg"
+            },
+            "entities": {
+                "hashtags": [],
+                "mentionedUsers": [],
+                "urls": []
+            },
+            "quoted": {
+                "id": "1876248874849075369",
+                "createdAt": "Mon Jan 06 12:46:05 +0000 2025",
+                "tweetBy": {
+                    "id": "464128120",
+                    "userName": "JoaquinTeixeira",
+                    "fullName": "Joaquin Teixeira",
+                    "createdAt": "Sat Jan 14 21:46:17 +0000 2012",
+                    "description": "🇺🇾 | +18 | HUMOR | PIADAS | Sociólogo, Jornalista e Humorista | https://t.co/Qymm0KH3je | LOJA: https://t.co/ctZa1VPTrK | https://t.co/gVhBp3VmTx |",
+                    "isVerified": true,
+                    "likeCount": 558800,
+                    "followersCount": 913274,
+                    "followingsCount": 7064,
+                    "statusesCount": 49361,
+                    "location": "uruguay",
+                    "pinnedTweet": "1841122347215987192",
+                    "profileBanner": "https://pbs.twimg.com/profile_banners/464128120/1677724145",
+                    "profileImage": "https://pbs.twimg.com/profile_images/1631116818751397889/MYszPwRm_normal.jpg"
+                },
+                "entities": {
+                    "hashtags": [],
+                    "mentionedUsers": [],
+                    "urls": []
+                },
+                "media": [
+                    {
+                        "url": "https://video.twimg.com/ext_tw_video/1876248777092182016/pu/vid/avc1/720x1280/pd7e_ak9dA68l0yJ.mp4?tag=12",
+                        "type": "video"
+                    }
+                ],
+                "fullText": "Isso tem nome: RACISMO\n\nA Ferrari morreu pra mim. MORREU. https://t.co/64CoDbhLg4",
+                "lang": "pt",
+                "quoteCount": 1097,
+                "replyCount": 2073,
+                "retweetCount": 1799,
+                "likeCount": 44323,
+                "viewCount": 6507662,
+                "bookmarkCount": 4583
+            },
+            "fullText": "Ferrari nunca esteve errada, entendeu?\n\nN U N C A",
+            "lang": "pt",
+            "quoteCount": 86,
+            "replyCount": 292,
+            "retweetCount": 687,
+            "likeCount": 15820,
+            "viewCount": 2393197,
+            "bookmarkCount": 1580
+        },
+        {
+            "id": "1876086246415765847",
+            "createdAt": "Mon Jan 06 01:59:51 +0000 2025",
+            "tweetBy": {
+                "id": "1592122195626565633",
+                "userName": "julissbm",
+                "fullName": "juls",
+                "createdAt": "Mon Nov 14 11:48:27 +0000 2022",
+                "description": "autodepreciação e constatações óbvias",
+                "isVerified": false,
+                "likeCount": 16702,
+                "followersCount": 19365,
+                "followingsCount": 235,
+                "statusesCount": 7508,
+                "location": "Ela/dela",
+                "profileBanner": "https://pbs.twimg.com/profile_banners/1592122195626565633/1679844586",
+                "profileImage": "https://pbs.twimg.com/profile_images/1702350001928617984/Q6VorgrV_normal.jpg"
+            },
+            "entities": {
+                "hashtags": [],
+                "mentionedUsers": [],
+                "urls": []
+            },
+            "fullText": "quero namorar com uma pessoa que tenha dois olhões de jabuticaba tão escuros que quando eu olhar de perto vão me puxar para dentro da sua imensidão fazendo com que nunca mais seja possível eu voltar",
+            "lang": "pt",
+            "quoteCount": 2881,
+            "replyCount": 536,
+            "retweetCount": 5421,
+            "likeCount": 41113,
+            "viewCount": 1025855,
+            "bookmarkCount": 2639
+        },
+        {
+            "id": "1876222625971949855",
+            "createdAt": "Mon Jan 06 11:01:47 +0000 2025",
+            "tweetBy": {
+                "id": "19384815",
+                "userName": "pmitu",
+                "fullName": "Paul Mit",
+                "createdAt": "Fri Jan 23 06:56:42 +0000 2009",
+                "description": "🌿 3х Saas Founder → bootstrap, $600k ARR, no VC, $0 marketing, and 💵 3 exits. Building: @flowmapp + @aaplyHQ + 🥷 stealth-AI",
+                "isVerified": true,
+                "likeCount": 53362,
+                "followersCount": 8309,
+                "followingsCount": 3208,
+                "statusesCount": 13314,
+                "location": "Learn Marketing →",
+                "pinnedTweet": "1798989447914004588",
+                "profileBanner": "https://pbs.twimg.com/profile_banners/19384815/1735218343",
+                "profileImage": "https://pbs.twimg.com/profile_images/933422170499371008/drhhIn0z_normal.jpg"
+            },
+            "entities": {
+                "hashtags": [],
+                "mentionedUsers": [],
+                "urls": []
+            },
+            "fullText": "The new era:\n\n5% MVP development\n95% marketing\n\nwelcome here",
+            "lang": "en",
+            "quoteCount": 3,
+            "replyCount": 82,
+            "retweetCount": 12,
+            "likeCount": 263,
+            "viewCount": 8837,
+            "bookmarkCount": 27
+        },
+        {
+            "id": "1876411390715740394",
+            "createdAt": "Mon Jan 06 23:31:52 +0000 2025",
+            "tweetBy": {
+                "id": "1264992884316610562",
+                "userName": "thesadbaby",
+                "fullName": "mood lyrics",
+                "createdAt": "Mon May 25 18:53:09 +0000 2020",
+                "description": "welcome to the sad club 💌",
+                "isVerified": true,
+                "likeCount": 202,
+                "followersCount": 1031463,
+                "followingsCount": 10,
+                "statusesCount": 6970,
+                "location": "dm for collabs",
+                "profileBanner": "https://pbs.twimg.com/profile_banners/1264992884316610562/1732650861",
+                "profileImage": "https://pbs.twimg.com/profile_images/1842753076526043136/o5toIol7_normal.jpg"
+            },
+            "entities": {
+                "hashtags": [],
+                "mentionedUsers": [],
+                "urls": []
+            },
+            "media": [
+                {
+                    "url": "https://pbs.twimg.com/media/GgpaL1WX0AAZXCr.png",
+                    "type": "photo"
+                }
+            ],
+            "fullText": "tyler, the creator. https://t.co/utSmU8r3vX",
+            "lang": "en",
+            "quoteCount": 22,
+            "replyCount": 2,
+            "retweetCount": 666,
+            "likeCount": 3125,
+            "viewCount": 59788,
+            "bookmarkCount": 229
+        },
+        {
+            "id": "1876353799373402404",
+            "createdAt": "Mon Jan 06 19:43:01 +0000 2025",
+            "tweetBy": {
+                "id": "7618892",
+                "userName": "disconcision",
+                "fullName": "andrew blinn",
+                "createdAt": "Fri Jul 20 21:32:52 +0000 2007",
+                "description": "progaming 🗨️ languages eboy and mousefeel 🖱️ epicure,\nworking on Nintendo® 🎮 Excel™ for the 📱 vpriPhone",
+                "isVerified": false,
+                "likeCount": 77549,
+                "followersCount": 4101,
+                "followingsCount": 1704,
+                "statusesCount": 15594,
+                "pinnedTweet": "1876353799373402404",
+                "profileBanner": "https://pbs.twimg.com/profile_banners/7618892/1680416567",
+                "profileImage": "https://pbs.twimg.com/profile_images/1744530086492073984/tQp2U7oR_normal.jpg"
+            },
+            "entities": {
+                "hashtags": [],
+                "mentionedUsers": [],
+                "urls": []
+            },
+            "media": [
+                {
+                    "url": "https://video.twimg.com/ext_tw_video/1876353158684844032/pu/vid/avc1/1012x720/Pdn8phGbicN14vK9.mp4?tag=12",
+                    "type": "video"
+                }
+            ],
+            "fullText": "holiday mini project: balatrize hazel. made this real after last week's mockup proved popular https://t.co/zDOER36PLS",
+            "lang": "en",
+            "quoteCount": 0,
+            "replyCount": 5,
+            "retweetCount": 34,
+            "likeCount": 400,
+            "viewCount": 28827,
+            "bookmarkCount": 150
+        },
+        {
+            "id": "1876340659331965327",
+            "createdAt": "Mon Jan 06 18:50:48 +0000 2025",
+            "tweetBy": {
+                "id": "5778712",
+                "userName": "kepano",
+                "fullName": "kepano",
+                "createdAt": "Sat May 05 00:42:26 +0000 2007",
+                "description": "making @obsdmd",
+                "isVerified": true,
+                "likeCount": 16421,
+                "followersCount": 60027,
+                "followingsCount": 1888,
+                "statusesCount": 10116,
+                "location": "Earth",
+                "pinnedTweet": "1675626836821409792",
+                "profileBanner": "https://pbs.twimg.com/profile_banners/5778712/1670616207",
+                "profileImage": "https://pbs.twimg.com/profile_images/1563635599906549761/wIum4L8I_normal.jpg"
+            },
+            "entities": {
+                "hashtags": [],
+                "mentionedUsers": [],
+                "urls": []
+            },
+            "fullText": "You built a house on someone else's land, and then they tore it down. \n\nBuild a house on your own land. From there you can create roads, bridges, tunnels to other people's land.\n\nOn the web land is infinite. You can make your own land.",
+            "lang": "en",
+            "quoteCount": 4,
+            "replyCount": 18,
+            "retweetCount": 48,
+            "likeCount": 623,
+            "viewCount": 22787,
+            "bookmarkCount": 121
+        },
+        {
+            "id": "1876127152908939553",
+            "createdAt": "Mon Jan 06 04:42:24 +0000 2025",
+            "tweetBy": {
+                "id": "913579127822798848",
+                "userName": "joaoprosintimos",
+                "fullName": "leão de chácara",
+                "createdAt": "Fri Sep 29 01:40:12 +0000 2017",
+                "description": "ex adm do quebrando o tabu",
+                "isVerified": false,
+                "likeCount": 43232,
+                "followersCount": 6025,
+                "followingsCount": 972,
+                "statusesCount": 44545,
+                "profileBanner": "https://pbs.twimg.com/profile_banners/913579127822798848/1621331970",
+                "profileImage": "https://pbs.twimg.com/profile_images/1744178559319457792/GHZ7s0G5_normal.jpg"
+            },
+            "entities": {
+                "hashtags": [],
+                "mentionedUsers": [],
+                "urls": []
+            },
+            "quoted": {
+                "id": "1875722617187160322",
+                "createdAt": "Sun Jan 05 01:54:55 +0000 2025",
+                "tweetBy": {
+                    "id": "1578861322141372417",
+                    "userName": "deleuzecitou",
+                    "fullName": "cris lupus",
+                    "createdAt": "Sat Oct 08 21:34:21 +0000 2022",
+                    "description": "meu nome é Macabéa, sou datilografa, virgem e gosto de Coca-Cola",
+                    "isVerified": false,
+                    "likeCount": 27201,
+                    "followersCount": 20876,
+                    "followingsCount": 2154,
+                    "statusesCount": 11368,
+                    "location": "Alagoas, Brasil",
+                    "profileBanner": "https://pbs.twimg.com/profile_banners/1578861322141372417/1719935932",
+                    "profileImage": "https://pbs.twimg.com/profile_images/1808168422674448386/swIuMy6K_normal.jpg"
+                },
+                "entities": {
+                    "hashtags": [],
+                    "mentionedUsers": [],
+                    "urls": []
+                },
+                "media": [
+                    {
+                        "url": "https://pbs.twimg.com/media/Ggfnwe9XYAA0uMH.jpg",
+                        "type": "photo"
+                    }
+                ],
+                "fullText": "onde?????? https://t.co/r0nkkhriJj",
+                "lang": "en",
+                "quoteCount": 916,
+                "replyCount": 1073,
+                "retweetCount": 2946,
+                "likeCount": 108980,
+                "viewCount": 4948098,
+                "bookmarkCount": 2965
+            },
+            "fullText": "o caracol imortal me vendo torrar os 10 milhões na vida boêmia",
+            "lang": "pt",
+            "quoteCount": 248,
+            "replyCount": 217,
+            "retweetCount": 4823,
+            "likeCount": 41120,
+            "viewCount": 864698,
+            "bookmarkCount": 770
+        },
+        {
+            "id": "1876359939259863138",
+            "createdAt": "Mon Jan 06 20:07:25 +0000 2025",
+            "tweetBy": {
+                "id": "3060279166",
+                "userName": "esnupicore",
+                "fullName": "esnupi",
+                "createdAt": "Tue Feb 24 21:10:48 +0000 2015",
+                "description": "eu gosto do esnupi e posto imagens relacionadas a ele • contatoesnupicore@gmail.com",
+                "isVerified": true,
+                "likeCount": 49631,
+                "followersCount": 119331,
+                "followingsCount": 546,
+                "statusesCount": 16856,
+                "location": "esnupi fanpage",
+                "pinnedTweet": "1797990952617021720",
+                "profileBanner": "https://pbs.twimg.com/profile_banners/3060279166/1717437903",
+                "profileImage": "https://pbs.twimg.com/profile_images/1831752350924451840/yE_bG4MT_normal.jpg"
+            },
+            "entities": {
+                "hashtags": [],
+                "mentionedUsers": [],
+                "urls": []
+            },
+            "media": [
+                {
+                    "url": "https://pbs.twimg.com/media/GgoraeTXYAAkydm.jpg",
+                    "type": "photo"
+                }
+            ],
+            "fullText": "https://t.co/Leb2jnr5Zp",
+            "lang": "zxx",
+            "quoteCount": 1070,
+            "replyCount": 609,
+            "retweetCount": 10937,
+            "likeCount": 84412,
+            "viewCount": 1070340,
+            "bookmarkCount": 2090
+        },
+        {
+            "id": "1876071472877408301",
+            "createdAt": "Mon Jan 06 01:01:09 +0000 2025",
+            "tweetBy": {
+                "id": "791466379035672577",
+                "userName": "daitanjunior_",
+                "fullName": "Daitan Junior",
+                "createdAt": "Thu Oct 27 02:27:44 +0000 2016",
+                "description": "algumas reflexões e as vezes tento biscoitar",
+                "isVerified": false,
+                "likeCount": 163963,
+                "followersCount": 86865,
+                "followingsCount": 30268,
+                "statusesCount": 6328,
+                "location": "Recife, Brasil",
+                "pinnedTweet": "1873840674501800144",
+                "profileBanner": "https://pbs.twimg.com/profile_banners/791466379035672577/1726661868",
+                "profileImage": "https://pbs.twimg.com/profile_images/1876082108247998464/aSbhdPDV_normal.jpg"
+            },
+            "entities": {
+                "hashtags": [],
+                "mentionedUsers": [],
+                "urls": []
+            },
+            "fullText": "TRANSAR É BOM mas deitar no escuro com quem a gente gosta e ficar só conversando, ouvindo a voz um do outro, trocando ideia sobre tudo e dando risada é outro nível de conexão",
+            "lang": "pt",
+            "quoteCount": 1048,
+            "replyCount": 348,
+            "retweetCount": 11277,
+            "likeCount": 52472,
+            "viewCount": 1442823,
+            "bookmarkCount": 2070
+        },
+        {
+            "id": "1876295025702908242",
+            "createdAt": "Mon Jan 06 15:49:28 +0000 2025",
+            "tweetBy": {
+                "id": "1354816400485871619",
+                "userName": "gizmobly",
+                "fullName": "🫡︎",
+                "createdAt": "Thu Jan 28 15:39:45 +0000 2021",
+                "description": "Software Engineer (Robotics) // I fight a lot",
+                "isVerified": true,
+                "likeCount": 26213,
+                "followersCount": 2052,
+                "followingsCount": 485,
+                "statusesCount": 8628,
+                "pinnedTweet": "1768417685526696360",
+                "profileBanner": "https://pbs.twimg.com/profile_banners/1354816400485871619/1726971362",
+                "profileImage": "https://pbs.twimg.com/profile_images/1774369149357043712/vXyOhOb5_normal.jpg"
+            },
+            "entities": {
+                "hashtags": [],
+                "mentionedUsers": [],
+                "urls": []
+            },
+            "media": [
+                {
+                    "url": "https://pbs.twimg.com/media/GgnwYeFWYAAmaVA.jpg",
+                    "type": "photo"
+                }
+            ],
+            "fullText": "Fuck it I'm gonna post it too for no apparent fucking reason https://t.co/nCaevJc0UM",
+            "lang": "en",
+            "quoteCount": 8,
+            "replyCount": 48,
+            "retweetCount": 7,
+            "likeCount": 584,
+            "viewCount": 18992,
+            "bookmarkCount": 99
+        },
+        {
+            "id": "1876029963016851652",
+            "createdAt": "Sun Jan 05 22:16:12 +0000 2025",
+            "tweetBy": {
+                "id": "1045091494955274240",
+                "userName": "meltedvideos",
+                "fullName": "mel",
+                "createdAt": "Wed Sep 26 23:23:24 +0000 2018",
+                "isVerified": true,
+                "likeCount": 21220,
+                "followersCount": 395461,
+                "followingsCount": 1052,
+                "statusesCount": 27259,
+                "location": "São Paulo, Brasil",
+                "profileBanner": "https://pbs.twimg.com/profile_banners/1045091494955274240/1691673953",
+                "profileImage": "https://pbs.twimg.com/profile_images/1689629134366887936/Mwve2cpl_normal.jpg"
+            },
+            "entities": {
+                "hashtags": [],
+                "mentionedUsers": [],
+                "urls": []
+            },
+            "media": [
+                {
+                    "url": "https://pbs.twimg.com/media/Ggj_S2bXYAAOr_x.png",
+                    "type": "photo"
+                }
+            ],
+            "fullText": "https://t.co/yj580ovDgZ",
+            "lang": "zxx",
+            "quoteCount": 74,
+            "replyCount": 21,
+            "retweetCount": 2221,
+            "likeCount": 15588,
+            "viewCount": 199367,
+            "bookmarkCount": 478
+        },
+        {
+            "id": "1875892113529036869",
+            "createdAt": "Sun Jan 05 13:08:26 +0000 2025",
+            "tweetBy": {
+                "id": "1544081244585185280",
+                "userName": "mattdalalay_",
+                "fullName": "мαтт ⚢",
+                "createdAt": "Mon Jul 04 22:11:05 +0000 2022",
+                "description": "É (quase) tudo conteúdo",
+                "isVerified": false,
+                "likeCount": 62591,
+                "followersCount": 19218,
+                "followingsCount": 10272,
+                "statusesCount": 37562,
+                "location": "Par de seios",
+                "profileBanner": "https://pbs.twimg.com/profile_banners/1544081244585185280/1735921979",
+                "profileImage": "https://pbs.twimg.com/profile_images/1875206750153961472/JoIMYm_7_normal.jpg"
+            },
+            "entities": {
+                "hashtags": [],
+                "mentionedUsers": [],
+                "urls": []
+            },
+            "media": [
+                {
+                    "url": "https://video.twimg.com/ext_tw_video/1722060828562583552/pu/vid/avc1/480x852/_kJyE8WBaC0D40Mw.mp4?tag=12",
+                    "type": "video"
+                }
+            ],
+            "fullText": "Fico exatamente assim quando me dão coisas sem eu pedir ou pagam pra mim pq sinto que entrei em dívida eterna com elas e preciso devolver 3 vezes mais https://t.co/WdPmooAL10",
+            "lang": "pt",
+            "quoteCount": 1099,
+            "replyCount": 362,
+            "retweetCount": 20398,
+            "likeCount": 71920,
+            "viewCount": 965390,
+            "bookmarkCount": 1736
+        }
+    ],
+    "timestamp": "2025-01-07"
+}

@@ -1,8 +1,6 @@
 import { useNavigate } from 'react-router-dom'
 import { useAuth } from '../context/AuthContext'
 import { AnimatedResponse } from '../components/AnimatedResponse'
-// import { TwitterAuthProvider, getAuth, signInWithPopup } from 'firebase/auth'
-// import { firebase_app } from '../firebase'
 import { motion } from 'motion/react'
 
 export const Auth = () => {

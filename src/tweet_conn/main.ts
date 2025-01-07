@@ -87,7 +87,7 @@ const logUserInfo = async ({ info }: { info: UserInformation }) => {
 
 export const constructRelationTree = async ({ target_user, no_recurse = false }: { target_user: string, no_recurse?: boolean }): UserInformation => {
     const target_user_info = await getUserDetails({ username: target_user })
-    console.log(`[+]Got target info!!:${target_user_info.userName}`)
+    // console.log(`[+]Got target info!!:${target_user_info.userName}`)
 
     const target_user_timeline = await getUserTweets({ fromUser: target_user, numberOfTweets: 20 })
 
