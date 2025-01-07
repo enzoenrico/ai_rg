@@ -2,8 +2,8 @@ import { Tweet } from "rettiwt-api"
 
 export interface UserInformation {
     name: string
-    pfp?:string
-    bio?: string
+    pfp: string
+    bio: string
     pinnedTweet?: Tweet
     location?: string
     followers: number

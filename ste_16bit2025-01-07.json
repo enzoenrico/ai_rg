@@ -3,9 +3,82 @@
     "pfp": "https://pbs.twimg.com/profile_images/1876410884332888064/TNxRZcxJ_normal.jpg",
     "bio": "stuck in the 00's, dev",
     "pinnedTweet": "1860704971093635309",
-    "followers": 7692,
+    "followers": 7695,
     "closestConnections": null,
     "timeline": [
+        {
+            "id": "1876659242238959961",
+            "createdAt": "Tue Jan 07 15:56:44 +0000 2025",
+            "tweetBy": {
+                "id": "1246738470678269958",
+                "userName": "ste_16bit",
+                "fullName": "stefani",
+                "createdAt": "Sun Apr 05 09:56:33 +0000 2020",
+                "description": "stuck in the 00's, dev",
+                "isVerified": false,
+                "likeCount": 2971,
+                "followersCount": 7696,
+                "followingsCount": 446,
+                "statusesCount": 3397,
+                "pinnedTweet": "1860704971093635309",
+                "profileBanner": "https://pbs.twimg.com/profile_banners/1246738470678269958/1732073997",
+                "profileImage": "https://pbs.twimg.com/profile_images/1876410884332888064/TNxRZcxJ_normal.jpg"
+            },
+            "entities": {
+                "hashtags": [],
+                "mentionedUsers": [
+                    "amasterofart"
+                ],
+                "urls": []
+            },
+            "media": [
+                {
+                    "url": "https://pbs.twimg.com/media/Ggs7odZWIAEPyaq.jpg",
+                    "type": "photo"
+                }
+            ],
+            "fullText": "@amasterofart eu diria que é culpa dos homens https://t.co/kDAVPRj7lw",
+            "replyTo": "1876658703627161632",
+            "lang": "pt",
+            "quoteCount": 0,
+            "replyCount": 0,
+            "retweetCount": 0,
+            "likeCount": 3,
+            "viewCount": 86,
+            "bookmarkCount": 0
+        },
+        {
+            "id": "1876652658712617354",
+            "createdAt": "Tue Jan 07 15:30:35 +0000 2025",
+            "tweetBy": {
+                "id": "1246738470678269958",
+                "userName": "ste_16bit",
+                "fullName": "stefani",
+                "createdAt": "Sun Apr 05 09:56:33 +0000 2020",
+                "description": "stuck in the 00's, dev",
+                "isVerified": false,
+                "likeCount": 2971,
+                "followersCount": 7696,
+                "followingsCount": 446,
+                "statusesCount": 3397,
+                "pinnedTweet": "1860704971093635309",
+                "profileBanner": "https://pbs.twimg.com/profile_banners/1246738470678269958/1732073997",
+                "profileImage": "https://pbs.twimg.com/profile_images/1876410884332888064/TNxRZcxJ_normal.jpg"
+            },
+            "entities": {
+                "hashtags": [],
+                "mentionedUsers": [],
+                "urls": []
+            },
+            "fullText": "medo de falar q eu não quero ter filho pq eu quero ficar jogando depois do trabalho",
+            "lang": "pt",
+            "quoteCount": 0,
+            "replyCount": 3,
+            "retweetCount": 2,
+            "likeCount": 79,
+            "viewCount": 954,
+            "bookmarkCount": 0
+        },
         {
             "id": "1876636049176457424",
             "createdAt": "Tue Jan 07 14:24:34 +0000 2025",
@@ -16,10 +89,10 @@
                 "createdAt": "Sun Apr 05 09:56:33 +0000 2020",
                 "description": "stuck in the 00's, dev",
                 "isVerified": false,
-                "likeCount": 2968,
-                "followersCount": 7692,
+                "likeCount": 2971,
+                "followersCount": 7696,
                 "followingsCount": 446,
-                "statusesCount": 3395,
+                "statusesCount": 3397,
                 "pinnedTweet": "1860704971093635309",
                 "profileBanner": "https://pbs.twimg.com/profile_banners/1246738470678269958/1732073997",
                 "profileImage": "https://pbs.twimg.com/profile_images/1876410884332888064/TNxRZcxJ_normal.jpg"
@@ -38,7 +111,7 @@
             "replyCount": 0,
             "retweetCount": 0,
             "likeCount": 0,
-            "viewCount": 4,
+            "viewCount": 38,
             "bookmarkCount": 0
         },
         {
@@ -51,10 +124,10 @@
                 "createdAt": "Sun Apr 05 09:56:33 +0000 2020",
                 "description": "stuck in the 00's, dev",
                 "isVerified": false,
-                "likeCount": 2968,
-                "followersCount": 7692,
+                "likeCount": 2971,
+                "followersCount": 7696,
                 "followingsCount": 446,
-                "statusesCount": 3395,
+                "statusesCount": 3397,
                 "pinnedTweet": "1860704971093635309",
                 "profileBanner": "https://pbs.twimg.com/profile_banners/1246738470678269958/1732073997",
                 "profileImage": "https://pbs.twimg.com/profile_images/1876410884332888064/TNxRZcxJ_normal.jpg"
@@ -73,7 +146,7 @@
             "replyCount": 0,
             "retweetCount": 0,
             "likeCount": 0,
-            "viewCount": 55,
+            "viewCount": 83,
             "bookmarkCount": 0
         },
         {
@@ -86,10 +159,10 @@
                 "createdAt": "Sun Apr 05 09:56:33 +0000 2020",
                 "description": "stuck in the 00's, dev",
                 "isVerified": false,
-                "likeCount": 2968,
-                "followersCount": 7692,
+                "likeCount": 2971,
+                "followersCount": 7696,
                 "followingsCount": 446,
-                "statusesCount": 3395,
+                "statusesCount": 3397,
                 "pinnedTweet": "1860704971093635309",
                 "profileBanner": "https://pbs.twimg.com/profile_banners/1246738470678269958/1732073997",
                 "profileImage": "https://pbs.twimg.com/profile_images/1876410884332888064/TNxRZcxJ_normal.jpg"
@@ -107,8 +180,8 @@
             "quoteCount": 0,
             "replyCount": 0,
             "retweetCount": 0,
-            "likeCount": 2,
-            "viewCount": 51,
+            "likeCount": 3,
+            "viewCount": 75,
             "bookmarkCount": 0
         },
         {
@@ -121,10 +194,10 @@
                 "createdAt": "Sun Apr 05 09:56:33 +0000 2020",
                 "description": "stuck in the 00's, dev",
                 "isVerified": false,
-                "likeCount": 2968,
-                "followersCount": 7692,
+                "likeCount": 2971,
+                "followersCount": 7696,
                 "followingsCount": 446,
-                "statusesCount": 3395,
+                "statusesCount": 3397,
                 "pinnedTweet": "1860704971093635309",
                 "profileBanner": "https://pbs.twimg.com/profile_banners/1246738470678269958/1732073997",
                 "profileImage": "https://pbs.twimg.com/profile_images/1876410884332888064/TNxRZcxJ_normal.jpg"
@@ -143,7 +216,7 @@
             "replyCount": 1,
             "retweetCount": 0,
             "likeCount": 2,
-            "viewCount": 125,
+            "viewCount": 130,
             "bookmarkCount": 0
         },
         {
@@ -156,10 +229,10 @@
                 "createdAt": "Sun Apr 05 09:56:33 +0000 2020",
                 "description": "stuck in the 00's, dev",
                 "isVerified": false,
-                "likeCount": 2968,
-                "followersCount": 7692,
+                "likeCount": 2971,
+                "followersCount": 7696,
                 "followingsCount": 446,
-                "statusesCount": 3395,
+                "statusesCount": 3397,
                 "pinnedTweet": "1860704971093635309",
                 "profileBanner": "https://pbs.twimg.com/profile_banners/1246738470678269958/1732073997",
                 "profileImage": "https://pbs.twimg.com/profile_images/1876410884332888064/TNxRZcxJ_normal.jpg"
@@ -178,7 +251,7 @@
             "replyCount": 0,
             "retweetCount": 0,
             "likeCount": 1,
-            "viewCount": 251,
+            "viewCount": 255,
             "bookmarkCount": 0
         },
         {
@@ -191,10 +264,10 @@
                 "createdAt": "Sun Apr 05 09:56:33 +0000 2020",
                 "description": "stuck in the 00's, dev",
                 "isVerified": false,
-                "likeCount": 2968,
-                "followersCount": 7692,
+                "likeCount": 2971,
+                "followersCount": 7696,
                 "followingsCount": 446,
-                "statusesCount": 3395,
+                "statusesCount": 3397,
                 "pinnedTweet": "1860704971093635309",
                 "profileBanner": "https://pbs.twimg.com/profile_banners/1246738470678269958/1732073997",
                 "profileImage": "https://pbs.twimg.com/profile_images/1876410884332888064/TNxRZcxJ_normal.jpg"
@@ -213,7 +286,7 @@
             "replyCount": 2,
             "retweetCount": 0,
             "likeCount": 0,
-            "viewCount": 264,
+            "viewCount": 267,
             "bookmarkCount": 0
         },
         {
@@ -226,10 +299,10 @@
                 "createdAt": "Sun Apr 05 09:56:33 +0000 2020",
                 "description": "stuck in the 00's, dev",
                 "isVerified": false,
-                "likeCount": 2968,
-                "followersCount": 7692,
+                "likeCount": 2971,
+                "followersCount": 7696,
                 "followingsCount": 446,
-                "statusesCount": 3395,
+                "statusesCount": 3397,
                 "pinnedTweet": "1860704971093635309",
                 "profileBanner": "https://pbs.twimg.com/profile_banners/1246738470678269958/1732073997",
                 "profileImage": "https://pbs.twimg.com/profile_images/1876410884332888064/TNxRZcxJ_normal.jpg"
@@ -248,7 +321,7 @@
             "replyCount": 1,
             "retweetCount": 0,
             "likeCount": 0,
-            "viewCount": 168,
+            "viewCount": 170,
             "bookmarkCount": 0
         },
         {
@@ -261,10 +334,10 @@
                 "createdAt": "Sun Apr 05 09:56:33 +0000 2020",
                 "description": "stuck in the 00's, dev",
                 "isVerified": false,
-                "likeCount": 2968,
-                "followersCount": 7692,
+                "likeCount": 2971,
+                "followersCount": 7696,
                 "followingsCount": 446,
-                "statusesCount": 3395,
+                "statusesCount": 3397,
                 "pinnedTweet": "1860704971093635309",
                 "profileBanner": "https://pbs.twimg.com/profile_banners/1246738470678269958/1732073997",
                 "profileImage": "https://pbs.twimg.com/profile_images/1876410884332888064/TNxRZcxJ_normal.jpg"
@@ -282,8 +355,8 @@
             "quoteCount": 0,
             "replyCount": 1,
             "retweetCount": 0,
-            "likeCount": 4,
-            "viewCount": 302,
+            "likeCount": 5,
+            "viewCount": 358,
             "bookmarkCount": 0
         },
         {
@@ -296,10 +369,10 @@
                 "createdAt": "Sun Apr 05 09:56:33 +0000 2020",
                 "description": "stuck in the 00's, dev",
                 "isVerified": false,
-                "likeCount": 2968,
-                "followersCount": 7692,
+                "likeCount": 2971,
+                "followersCount": 7696,
                 "followingsCount": 446,
-                "statusesCount": 3395,
+                "statusesCount": 3397,
                 "pinnedTweet": "1860704971093635309",
                 "profileBanner": "https://pbs.twimg.com/profile_banners/1246738470678269958/1732073997",
                 "profileImage": "https://pbs.twimg.com/profile_images/1876410884332888064/TNxRZcxJ_normal.jpg"
@@ -318,7 +391,7 @@
             "replyCount": 0,
             "retweetCount": 0,
             "likeCount": 1,
-            "viewCount": 194,
+            "viewCount": 209,
             "bookmarkCount": 0
         },
         {
@@ -331,10 +404,10 @@
                 "createdAt": "Sun Apr 05 09:56:33 +0000 2020",
                 "description": "stuck in the 00's, dev",
                 "isVerified": false,
-                "likeCount": 2968,
-                "followersCount": 7692,
+                "likeCount": 2971,
+                "followersCount": 7696,
                 "followingsCount": 446,
-                "statusesCount": 3395,
+                "statusesCount": 3397,
                 "pinnedTweet": "1860704971093635309",
                 "profileBanner": "https://pbs.twimg.com/profile_banners/1246738470678269958/1732073997",
                 "profileImage": "https://pbs.twimg.com/profile_images/1876410884332888064/TNxRZcxJ_normal.jpg"
@@ -353,7 +426,7 @@
             "replyCount": 0,
             "retweetCount": 0,
             "likeCount": 1,
-            "viewCount": 48,
+            "viewCount": 50,
             "bookmarkCount": 0
         },
         {
@@ -366,10 +439,10 @@
                 "createdAt": "Sun Apr 05 09:56:33 +0000 2020",
                 "description": "stuck in the 00's, dev",
                 "isVerified": false,
-                "likeCount": 2968,
-                "followersCount": 7692,
+                "likeCount": 2971,
+                "followersCount": 7696,
                 "followingsCount": 446,
-                "statusesCount": 3395,
+                "statusesCount": 3397,
                 "pinnedTweet": "1860704971093635309",
                 "profileBanner": "https://pbs.twimg.com/profile_banners/1246738470678269958/1732073997",
                 "profileImage": "https://pbs.twimg.com/profile_images/1876410884332888064/TNxRZcxJ_normal.jpg"
@@ -384,8 +457,8 @@
             "quoteCount": 0,
             "replyCount": 7,
             "retweetCount": 0,
-            "likeCount": 75,
-            "viewCount": 3186,
+            "likeCount": 79,
+            "viewCount": 3496,
             "bookmarkCount": 3
         },
         {
@@ -398,10 +471,10 @@
                 "createdAt": "Sun Apr 05 09:56:33 +0000 2020",
                 "description": "stuck in the 00's, dev",
                 "isVerified": false,
-                "likeCount": 2968,
-                "followersCount": 7692,
+                "likeCount": 2971,
+                "followersCount": 7696,
                 "followingsCount": 446,
-                "statusesCount": 3395,
+                "statusesCount": 3397,
                 "pinnedTweet": "1860704971093635309",
                 "profileBanner": "https://pbs.twimg.com/profile_banners/1246738470678269958/1732073997",
                 "profileImage": "https://pbs.twimg.com/profile_images/1876410884332888064/TNxRZcxJ_normal.jpg"
@@ -420,7 +493,7 @@
             "replyCount": 0,
             "retweetCount": 0,
             "likeCount": 1,
-            "viewCount": 719,
+            "viewCount": 760,
             "bookmarkCount": 0
         },
         {
@@ -433,10 +506,10 @@
                 "createdAt": "Sun Apr 05 09:56:33 +0000 2020",
                 "description": "stuck in the 00's, dev",
                 "isVerified": false,
-                "likeCount": 2968,
-                "followersCount": 7692,
+                "likeCount": 2971,
+                "followersCount": 7696,
                 "followingsCount": 446,
-                "statusesCount": 3395,
+                "statusesCount": 3397,
                 "pinnedTweet": "1860704971093635309",
                 "profileBanner": "https://pbs.twimg.com/profile_banners/1246738470678269958/1732073997",
                 "profileImage": "https://pbs.twimg.com/profile_images/1876410884332888064/TNxRZcxJ_normal.jpg"
@@ -455,7 +528,7 @@
             "replyCount": 0,
             "retweetCount": 0,
             "likeCount": 1,
-            "viewCount": 58,
+            "viewCount": 59,
             "bookmarkCount": 0
         },
         {
@@ -468,10 +541,10 @@
                 "createdAt": "Sun Apr 05 09:56:33 +0000 2020",
                 "description": "stuck in the 00's, dev",
                 "isVerified": false,
-                "likeCount": 2968,
-                "followersCount": 7692,
+                "likeCount": 2971,
+                "followersCount": 7696,
                 "followingsCount": 446,
-                "statusesCount": 3395,
+                "statusesCount": 3397,
                 "pinnedTweet": "1860704971093635309",
                 "profileBanner": "https://pbs.twimg.com/profile_banners/1246738470678269958/1732073997",
                 "profileImage": "https://pbs.twimg.com/profile_images/1876410884332888064/TNxRZcxJ_normal.jpg"
@@ -490,7 +563,7 @@
             "replyCount": 0,
             "retweetCount": 0,
             "likeCount": 1,
-            "viewCount": 439,
+            "viewCount": 440,
             "bookmarkCount": 0
         },
         {
@@ -503,10 +576,10 @@
                 "createdAt": "Sun Apr 05 09:56:33 +0000 2020",
                 "description": "stuck in the 00's, dev",
                 "isVerified": false,
-                "likeCount": 2968,
-                "followersCount": 7692,
+                "likeCount": 2971,
+                "followersCount": 7696,
                 "followingsCount": 446,
-                "statusesCount": 3395,
+                "statusesCount": 3397,
                 "pinnedTweet": "1860704971093635309",
                 "profileBanner": "https://pbs.twimg.com/profile_banners/1246738470678269958/1732073997",
                 "profileImage": "https://pbs.twimg.com/profile_images/1876410884332888064/TNxRZcxJ_normal.jpg"
@@ -525,7 +598,7 @@
             "replyCount": 1,
             "retweetCount": 0,
             "likeCount": 2,
-            "viewCount": 611,
+            "viewCount": 612,
             "bookmarkCount": 0
         },
         {
@@ -538,10 +611,10 @@
                 "createdAt": "Sun Apr 05 09:56:33 +0000 2020",
                 "description": "stuck in the 00's, dev",
                 "isVerified": false,
-                "likeCount": 2968,
-                "followersCount": 7692,
+                "likeCount": 2971,
+                "followersCount": 7696,
                 "followingsCount": 446,
-                "statusesCount": 3395,
+                "statusesCount": 3397,
                 "pinnedTweet": "1860704971093635309",
                 "profileBanner": "https://pbs.twimg.com/profile_banners/1246738470678269958/1732073997",
                 "profileImage": "https://pbs.twimg.com/profile_images/1876410884332888064/TNxRZcxJ_normal.jpg"
@@ -560,7 +633,7 @@
             "replyCount": 1,
             "retweetCount": 0,
             "likeCount": 3,
-            "viewCount": 1135,
+            "viewCount": 1188,
             "bookmarkCount": 0
         },
         {
@@ -573,10 +646,10 @@
                 "createdAt": "Sun Apr 05 09:56:33 +0000 2020",
                 "description": "stuck in the 00's, dev",
                 "isVerified": false,
-                "likeCount": 2968,
-                "followersCount": 7692,
+                "likeCount": 2971,
+                "followersCount": 7696,
                 "followingsCount": 446,
-                "statusesCount": 3395,
+                "statusesCount": 3397,
                 "pinnedTweet": "1860704971093635309",
                 "profileBanner": "https://pbs.twimg.com/profile_banners/1246738470678269958/1732073997",
                 "profileImage": "https://pbs.twimg.com/profile_images/1876410884332888064/TNxRZcxJ_normal.jpg"
@@ -589,11 +662,11 @@
             "fullText": "e uma coisa que me provou isso foram os jogos de terror q começaram a surgir com o puppetcombo estilo vhs",
             "replyTo": "1876240933475495980",
             "lang": "pt",
-            "quoteCount": 1,
+            "quoteCount": 0,
             "replyCount": 0,
             "retweetCount": 0,
-            "likeCount": 24,
-            "viewCount": 1730,
+            "likeCount": 26,
+            "viewCount": 1847,
             "bookmarkCount": 0
         },
         {
@@ -606,10 +679,10 @@
                 "createdAt": "Sun Apr 05 09:56:33 +0000 2020",
                 "description": "stuck in the 00's, dev",
                 "isVerified": false,
-                "likeCount": 2968,
-                "followersCount": 7692,
+                "likeCount": 2971,
+                "followersCount": 7696,
                 "followingsCount": 446,
-                "statusesCount": 3395,
+                "statusesCount": 3397,
                 "pinnedTweet": "1860704971093635309",
                 "profileBanner": "https://pbs.twimg.com/profile_banners/1246738470678269958/1732073997",
                 "profileImage": "https://pbs.twimg.com/profile_images/1876410884332888064/TNxRZcxJ_normal.jpg"
@@ -629,10 +702,10 @@
                     "createdAt": "Wed Aug 23 12:09:25 +0000 2017",
                     "description": "Noticias diarias del mundo de los Videojuegos\n\n #BungieCreator - Creador de #PlaystationES #UbisoftPartner #Xbox\n\n mail: legionlooterana@gmail.com",
                     "isVerified": true,
-                    "likeCount": 51918,
-                    "followersCount": 7966,
+                    "likeCount": 51930,
+                    "followersCount": 7964,
                     "followingsCount": 1479,
-                    "statusesCount": 35652,
+                    "statusesCount": 35657,
                     "location": "España",
                     "pinnedTweet": "1864961277715472642",
                     "profileBanner": "https://pbs.twimg.com/profile_banners/900329123750588416/1707520274",
@@ -651,88 +724,21 @@
                 ],
                 "fullText": "Así se verán los videojuegos en la próxima generación\n\nVideo de Shenmue renderizado por Sora, la inteligencia artificial de videos por excelencia\n\nhttps://t.co/cwPklUy8lg",
                 "lang": "es",
-                "quoteCount": 922,
-                "replyCount": 377,
+                "quoteCount": 925,
+                "replyCount": 380,
                 "retweetCount": 100,
-                "likeCount": 1259,
-                "viewCount": 1727558,
-                "bookmarkCount": 328
+                "likeCount": 1268,
+                "viewCount": 1738881,
+                "bookmarkCount": 330
             },
             "fullText": "antigamente eu achava realismo nos jogos a parada mais foda de todas\n\nhoje eu acho horrível, quanto mais pixelizado pra mim melhor 🙏",
             "lang": "pt",
-            "quoteCount": 11,
-            "replyCount": 47,
-            "retweetCount": 69,
-            "likeCount": 1229,
-            "viewCount": 40175,
+            "quoteCount": 12,
+            "replyCount": 50,
+            "retweetCount": 70,
+            "likeCount": 1284,
+            "viewCount": 42168,
             "bookmarkCount": 28
-        },
-        {
-            "id": "1876002160951124447",
-            "createdAt": "Sun Jan 05 20:25:44 +0000 2025",
-            "tweetBy": {
-                "id": "1246738470678269958",
-                "userName": "ste_16bit",
-                "fullName": "stefani",
-                "createdAt": "Sun Apr 05 09:56:33 +0000 2020",
-                "description": "stuck in the 00's, dev",
-                "isVerified": false,
-                "likeCount": 2968,
-                "followersCount": 7692,
-                "followingsCount": 446,
-                "statusesCount": 3395,
-                "pinnedTweet": "1860704971093635309",
-                "profileBanner": "https://pbs.twimg.com/profile_banners/1246738470678269958/1732073997",
-                "profileImage": "https://pbs.twimg.com/profile_images/1876410884332888064/TNxRZcxJ_normal.jpg"
-            },
-            "entities": {
-                "hashtags": [],
-                "mentionedUsers": [],
-                "urls": []
-            },
-            "fullText": "queria um lego novo",
-            "lang": "pt",
-            "quoteCount": 0,
-            "replyCount": 0,
-            "retweetCount": 0,
-            "likeCount": 22,
-            "viewCount": 2225,
-            "bookmarkCount": 0
-        },
-        {
-            "id": "1875652940729610297",
-            "createdAt": "Sat Jan 04 21:18:03 +0000 2025",
-            "tweetBy": {
-                "id": "1246738470678269958",
-                "userName": "ste_16bit",
-                "fullName": "stefani",
-                "createdAt": "Sun Apr 05 09:56:33 +0000 2020",
-                "description": "stuck in the 00's, dev",
-                "isVerified": false,
-                "likeCount": 2968,
-                "followersCount": 7692,
-                "followingsCount": 446,
-                "statusesCount": 3395,
-                "pinnedTweet": "1860704971093635309",
-                "profileBanner": "https://pbs.twimg.com/profile_banners/1246738470678269958/1732073997",
-                "profileImage": "https://pbs.twimg.com/profile_images/1876410884332888064/TNxRZcxJ_normal.jpg"
-            },
-            "entities": {
-                "hashtags": [],
-                "mentionedUsers": [
-                    "PedruG"
-                ],
-                "urls": []
-            },
-            "fullText": "@PedruG sla n sei mt oq pensar a respeito \n\na riot é mt restrita com cheat nos games deles e tentar fazer um anti cheat pra fps parece a coisa mais impossível do mundo, e pensar q nem no kernel ta resolvendo",
-            "replyTo": "1875650218278129937",
-            "lang": "pt",
-            "quoteCount": 0,
-            "replyCount": 4,
-            "retweetCount": 0,
-            "likeCount": 31,
-            "viewCount": 7579,
-            "bookmarkCount": 0
         }
     ],
     "latest_liked": null,

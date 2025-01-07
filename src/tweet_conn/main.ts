@@ -1,6 +1,7 @@
-import { Rettiwt, Tweet } from 'rettiwt-api';
+import { Rettiwt, Tweet, User } from 'rettiwt-api';
 import { UserInformation } from './interfaces';
-import { writeFile } from 'fs/promises';
+import { readFile, writeFile } from 'fs/promises';
+import { existsSync } from 'fs';
 
 // Creating a new Rettiwt instance using the API_KEY
 const rettiwt = new Rettiwt({ apiKey: 'a2R0PUhmcXU4WGR4ZlF1eVVBR3NrZjcwTE8wV3ZhaEV4emFIdjB3SlJ0TlY7YXV0aF90b2tlbj1hNDJlN2NjMTJhNzFhYzg1ZDUwMjI2Zjk0NzkyYjU5MjA2ODIyYTIxO2N0MD1kMjFiMjQxODcxMTI5NDQ1NmQ4N2JlYzRlNjk0Y2IxMmQzZmNhMjlkYzAzY2JlYWQxMGQzNGFjNWI4NTNiMzMwNTQyNzk0NThmNjk1ZmNjZjFkM2U4OGI2ZjA5NTZmYjMyZWQwMmMyNzExYmU1NTMzZTQ5OWNhMzg1MjgzYjU4ZjMyM2ZhNDg4MDg1ODVmODE4ZmY0ZmM0ZDIzYzBlNjY1O3R3aWQ9dSUzRDE3ODgzMTEyNzM4NzQxMDg0MTY7' });
@@ -36,7 +37,15 @@ const getUserMostMentioned = ({ tweets }: { tweets: Array<Tweet> }): string[] =>
         .map(([username]) => username.slice(1)); // Remove @ symbol from usernames
 }
 
-const getUserDetails = async ({ username }: { username: string }) => {
+const getUserDetails = async ({ username }: { username: string }): Promise<UserInformation | User> => {
+    // returning User | UserInformation
+    // checkes for cached users
+    // really cool feature! glad i thought of that!!
+    const cached = await checkIfTargetIsCached({ target: username })
+    if (cached != null) {
+        console.info('[+] using cached info for user ', cached.name)
+        return cached
+    }
     return await rettiwt.user.details(username).then(response => (response))
 }
 
@@ -52,6 +61,15 @@ const generateUserInformation = ({ userDetails, closestConnections, timeline, li
     likes: Tweet[]
 
 }): UserInformation => {
+    // when pulling information from cached data, it comes in a userInformation format, from the log function
+    // check func getUserDetails 
+    // thats why the logger was creating a undefined.json log
+
+    // temporary fix here
+    if ('closestConnections' in userDetails) {
+        return userDetails as UserInformation;
+    }
+    console.info(`[generateUserInformation] recieved ${userDetails.userName}`)
     const organizedUserInfo: UserInformation = {
         name: userDetails.userName,
         pfp: userDetails.profileImage,
@@ -61,7 +79,7 @@ const generateUserInformation = ({ userDetails, closestConnections, timeline, li
         followers: userDetails.followersCount,
         closestConnections: closestConnections,
         timeline: timeline,
-        latest_liked: likes
+        latest_liked: likes //TODO: CHANGE TO GET LIKES ONLY IF IT'S AUTHED USER
 
     }
     // console.log('User Details:', organizedUserInfo);
@@ -70,9 +88,12 @@ const generateUserInformation = ({ userDetails, closestConnections, timeline, li
 
 
 const logUserInfo = async ({ info }: { info: UserInformation }) => {
-    const timestamp = new Date().toISOString().split('T')[0];
+    // console.info('[!!]Logger recieved following info!')
+    // console.log(info)
+    const timestamp = new Date().toISOString()
+    const only_date = timestamp.split('T')[0];
     const dated_info = { ...info, timestamp: timestamp }
-    const file_path = `./${info.name + timestamp}.json`
+    const file_path = `./src/logs/${info.name + only_date}.json`
     // await mkdir('output', { recursive: true });
     const jsonfied = JSON.stringify(dated_info, null, 4)
     await writeFile(file_path, jsonfied, 'utf-8', (err) => {
@@ -84,8 +105,24 @@ const logUserInfo = async ({ info }: { info: UserInformation }) => {
     return
 }
 
+const checkIfTargetIsCached = async ({ target }: { target: string }): UserInformation => {
+    const timestamp = new Date().toISOString().split('T')[0]
+    const target_path = `./src/logs/${target + timestamp}.json`
+    if (target == 'undefined' || target == undefined) {
+        console.info('[+]checkIfTargetIsCached recieved undefined')
+        return null
+    }
+    if (existsSync(target_path)) {
+        const fileContents = await readFile(target_path)
+        return JSON.parse(fileContents.toString()) as UserInformation;
+    }
+    return null
+}
 
 export const constructRelationTree = async ({ target_user, no_recurse = false }: { target_user: string, no_recurse?: boolean }): UserInformation => {
+    if (target_user == undefined || target_user == 'undefined') {
+        return
+    }
     const target_user_info = await getUserDetails({ username: target_user })
     // console.log(`[+]Got target info!!:${target_user_info.userName}`)
 
@@ -96,17 +133,22 @@ export const constructRelationTree = async ({ target_user, no_recurse = false }:
         const target_user_likes = await getUserLikes()
         const target_user_connections = await getUserMostMentioned({ tweets: target_user_timeline })
         const target_users_infomation = await Promise.all(target_user_connections.map(async (user) => {
+            // console.log('[target_users_information promise.all map]')
+            // console.log(user)
             return await constructRelationTree({ target_user: user, no_recurse: true })
         }))
-        console.log(`[+]Target user information contains: ${target_users_infomation} `)
+        console.log(`[+]Target user information contains: ${target_users_infomation[0].name} `)
+
+        //error is here !!!!
         const userInfo = generateUserInformation({ userDetails: target_user_info, closestConnections: target_users_infomation, timeline: target_user_timeline, likes: target_user_likes })
+        // console.log(`[constructRelationTree] ${userInfo.name}`)
         await logUserInfo({ info: userInfo })
         return userInfo
 
     }
 
     const userInfo = generateUserInformation({ userDetails: target_user_info, closestConnections: null, timeline: target_user_timeline, likes: null })
-    logUserInfo({ info: userInfo })
+    // logUserInfo({ info: userInfo })
     return userInfo
 }
 

@@ -13,18 +13,15 @@ export const Home = () => {
     setActive(true)
     try {
       console.log(userInput)
-      const response = await fetch('http://localhost:5000/ai', {
-        method: 'POST',
+      const response = await fetch(`http://localhost:3000/user/${userInput}`, {
+        method: 'GET',
         headers: {
-          'Content-Type': 'application/json',
-          'X-Token': 'your-secret-token' // Add the required authentication token
-        },
-        body: JSON.stringify({
-          query: userInput
-        })
+          'Content-Type': 'application/json'
+        }
       })
       const data = await response.json()
-      setAIResponse(data.response)
+      console.log(data)
+      setAIResponse(data.message.bio)
     } catch (error) {
       setAIResponse('connection lost, try again')
       console.error(error)
@@ -68,9 +65,9 @@ export const Home = () => {
         animate={{ opacity: 1 }}
         transition={{ duration: 3 }}
       >
-        <ModelCanvas 
-          loading={active} 
-          setLoading={(value: boolean) => setActive(value)} 
+        <ModelCanvas
+          loading={active}
+          setLoading={(value: boolean) => setActive(value)}
         />
         <form
           className='absolute bottom-5 w-full flex items-center justify-center gap-8'
