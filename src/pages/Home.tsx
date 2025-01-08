@@ -6,6 +6,7 @@ import { AnimatedResponse } from '../components/AnimatedResponse'
 import { UserInformation } from '../tweet_conn/interfaces'
 import { ClosestUsers } from '../components/ClosestUsers'
 
+const PROD_URL = 'https://yourself.kyou.tech/'
 export const Home = () => {
   const [parsedData, setParsedData] = useState<
     Array<{
@@ -35,7 +36,7 @@ export const Home = () => {
     setActive(true)
     try {
       console.log(userInput)
-      const response = await fetch(`http://127.0.0.1:3000/user/${userInput}`, {
+      const response = await fetch(`${PROD_URL}:3000/user/${userInput}`, {
         method: 'GET',
         headers: {
           'Content-Type': 'application/json'
