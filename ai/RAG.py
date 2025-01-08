@@ -20,6 +20,7 @@ load_dotenv()
 
 class RAG:
     def __init__(self):
+
         raw_prompt = """
         You're a digital copy of the user based on their twitter information, your objective is to maintain a conversation with the user as if you were a digital clone of him
         Based on the context, use all of the provided information to incorporate the user as best as you can
@@ -65,11 +66,11 @@ class RAG:
             print(f"[-]Something went wrong adding documents to chromadb: \n {err}")
 
     def _initXLoader(self):
-        "loads tweets from users into a List[Document] and returns it"
+        "loads information from users into a List[Document] and returns it"
         try:
             print("[+] creating twitter loader")
             # should return document list for later splitting
-            x_loader = TweetLoader(users=["ky0uko___"], n_tweets=50)
+            x_loader = TweetLoader(users=[self.user], n_tweets=50)
             self.loader = x_loader
         except Exception as err:
             print(f"[-]{err}")
