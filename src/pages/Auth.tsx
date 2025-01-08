@@ -8,7 +8,8 @@ export const Auth = () => {
   const { isAuthed, login, logout } = useAuth()
 
   const handleLogin = () => {
-    login()
+    // change with the actual content
+    login({ email: '', password: '' })
     navigate('/')
   }
   const handleLogout = () => {

@@ -15,10 +15,6 @@ app.use((req, res, next) => {
     next();
 });
 
-// Basic route
-app.get('/', (req: Request, res: Response) => {
-    res.json({ message: 'Welcome to the API' });
-});
 
 // Example route with params
 app.get('/user/:name', async (req: Request, res: Response) => {
@@ -31,11 +27,11 @@ app.get('/user/:name', async (req: Request, res: Response) => {
             message: relationTree
         });
         return
-    } catch (err: Error) {
+    } catch (err) {
         console.log(`[!]Error! \n ${err}`)
         res.status(500).json({
-            status: 'error',
-            message: 'Server error, stack trace generated'
+            status: 'server error',
+            message: err
         })
         return
     }

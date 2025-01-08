@@ -8,7 +8,7 @@
         "build": "tsc -b && vite build",
         "lint": "eslint .",
         "preview": "vite preview",
-        "start": "vite preview --host --port 8080",
+        "start": "concurrently \"vite preview --host --port 8080\" \"bun run --watch ./src/tweet_conn/tweet_api.ts\"",
         "api": "bun run --watch ./src/tweet_conn/tweet_api.ts"
     },
     "dependencies": {

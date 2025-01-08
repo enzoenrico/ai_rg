@@ -4,7 +4,7 @@ export interface UserInformation {
     name: string
     pfp: string
     bio: string
-    pinnedTweet?: Tweet
+    pinnedTweet?: string
     location?: string
     followers: number
     closestConnections?: UserInformation[] //optional, recurse only to 1-2 steps

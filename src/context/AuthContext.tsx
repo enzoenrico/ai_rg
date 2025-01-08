@@ -8,7 +8,7 @@ import {
 
 interface AuthContextType {
   isAuthed: boolean
-  login: () => void
+  login: ({ email, password }) => Promise<void>
   logout: () => void
 }
 

@@ -12,7 +12,7 @@ const getUserTweets = async ({ fromUser, numberOfTweets = 20 }: {
     fromUser?: string,
     numberOfTweets?: number
 } = {}): Promise<Array<Tweet>> => {
-    const selectedForSearch: string = fromUser || username;
+    const selectedForSearch: string = fromUser
     // remove the 'tweet_by' property
     const bonga = await rettiwt.tweet.search({ fromUsers: [selectedForSearch] }, numberOfTweets);
     return bonga.list;
@@ -55,7 +55,7 @@ const getUserLikes = async () => {
 
 //generate user information object
 const generateUserInformation = ({ userDetails, closestConnections, timeline, likes }: {
-    userDetails: User,
+    userDetails: User | UserInformation,
     closestConnections?: UserInformation[],
     timeline: Tweet[],
     likes: Tweet[]
@@ -66,17 +66,22 @@ const generateUserInformation = ({ userDetails, closestConnections, timeline, li
     // thats why the logger was creating a undefined.json log
 
     // temporary fix here
-    if ('closestConnections' in userDetails) {
+    // if ('closestConnections' in userDetails) {
+    //     return userDetails as UserInformation;
+    // }
+
+    if ((userDetails as UserInformation).closestConnections !== undefined) {
         return userDetails as UserInformation;
     }
-    console.info(`[generateUserInformation] recieved ${userDetails.userName}`)
+    // console.info(`[generateUserInformation] recieved ${userDetails.userName}`)
+    const userDetailsasUser = userDetails as User
     const organizedUserInfo: UserInformation = {
-        name: userDetails.userName,
-        pfp: userDetails.profileImage,
-        bio: userDetails.description,
-        pinnedTweet: userDetails.pinnedTweet,
-        location: userDetails.location,
-        followers: userDetails.followersCount,
+        name: userDetailsasUser.userName,
+        pfp: userDetailsasUser.profileImage,
+        bio: userDetailsasUser.description,
+        pinnedTweet: userDetailsasUser.pinnedTweet,
+        location: userDetailsasUser.location,
+        followers: userDetailsasUser.followersCount,
         closestConnections: closestConnections,
         timeline: timeline,
         latest_liked: likes //TODO: CHANGE TO GET LIKES ONLY IF IT'S AUTHED USER
@@ -96,16 +101,12 @@ const logUserInfo = async ({ info }: { info: UserInformation }) => {
     const file_path = `./src/logs/${info.name + only_date}.json`
     // await mkdir('output', { recursive: true });
     const jsonfied = JSON.stringify(dated_info, null, 4)
-    await writeFile(file_path, jsonfied, 'utf-8', (err) => {
-        if (err) {
-            return console.error(`[!] Error creating ${file_path} JSON object: `, err)
-        }
-    })
+    await writeFile(file_path, jsonfied, 'utf-8')
     console.log(`[+]Logs written to ${file_path}`)
     return
 }
 
-const checkIfTargetIsCached = async ({ target }: { target: string }): UserInformation => {
+const checkIfTargetIsCached = async ({ target }: { target: string }): Promise<UserInformation> => {
     const timestamp = new Date().toISOString().split('T')[0]
     const target_path = `./src/logs/${target + timestamp}.json`
     if (target == 'undefined' || target == undefined) {
@@ -119,7 +120,7 @@ const checkIfTargetIsCached = async ({ target }: { target: string }): UserInform
     return null
 }
 
-export const constructRelationTree = async ({ target_user, no_recurse = false }: { target_user: string, no_recurse?: boolean }): UserInformation => {
+export const constructRelationTree = async ({ target_user, no_recurse = false }: { target_user: string, no_recurse?: boolean }): Promise<UserInformation> => {
     if (target_user == undefined || target_user == 'undefined') {
         return
     }
@@ -140,14 +141,13 @@ export const constructRelationTree = async ({ target_user, no_recurse = false }:
         console.log(`[+]Target user information contains: ${target_users_infomation[0].name} `)
 
         //error is here !!!!
-        const userInfo = generateUserInformation({ userDetails: target_user_info, closestConnections: target_users_infomation, timeline: target_user_timeline, likes: target_user_likes })
+        const userInfo = generateUserInformation({ userDetails: target_user_info as User, closestConnections: target_users_infomation, timeline: target_user_timeline, likes: target_user_likes })
         // console.log(`[constructRelationTree] ${userInfo.name}`)
         await logUserInfo({ info: userInfo })
         return userInfo
-
     }
 
-    const userInfo = generateUserInformation({ userDetails: target_user_info, closestConnections: null, timeline: target_user_timeline, likes: null })
+    const userInfo = generateUserInformation({ userDetails: target_user_info as User, closestConnections: null, timeline: target_user_timeline, likes: null })
     // logUserInfo({ info: userInfo })
     return userInfo
 }
