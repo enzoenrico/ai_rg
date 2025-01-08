@@ -8,7 +8,7 @@
         "build": "tsc -b && vite build",
         "lint": "eslint .",
         "preview": "vite preview",
-        "start": "concurrently \"vite preview --host --port 8080\" \"bun run --watch ./src/tweet_conn/tweet_api.ts\"",
+        "start": "concurrently \"vite preview --host --port 8080\" \"bun run ./src/tweet_conn/tweet_api.ts",
         "api": "bun run --watch ./src/tweet_conn/tweet_api.ts"
     },
     "dependencies": {
@@ -18,6 +18,7 @@
         "@types/express": "^5.0.0",
         "@types/three": "^0.171.0",
         "autoprefixer": "^10.4.20",
+        "concurrently": "^9.1.2",
         "express": "^4.21.2",
         "motion": "^11.15.0",
         "react": "^18.3.1",
